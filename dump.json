@@ -1,0 +1,4374 @@
+[
+    {
+        "translations": {
+            "진행하는 성질": 1,
+            "결국성질": 1,
+            "결국에는 일어날 성질": 1,
+            "언젠간성질": 1,
+            "언젠가는 일어날 성질 ": 1
+        },
+        "timestamp": {
+            "seconds": 1684378886,
+            "nanoseconds": 759000000
+        },
+        "english": "liveness property",
+        "id": "nqISNcZKovekbexfis0H"
+    },
+    {
+        "english": "abstract machine",
+        "translations": {
+            "실행기계, 언어실행기, 기계어실행기": 1
+        },
+        "timestamp": {
+            "seconds": 1684243478,
+            "nanoseconds": 986000000
+        },
+        "id": "5cLfGNMmy1y1YCYmQZqB"
+    },
+    {
+        "english": "definitional interpreter",
+        "timestamp": {
+            "seconds": 1684243274,
+            "nanoseconds": 6000000
+        },
+        "translations": {
+            "실행기": 1
+        },
+        "id": "soPytAVFhd9RWQFExDHw"
+    },
+    {
+        "english": "borrowing",
+        "timestamp": {
+            "seconds": 1684159445,
+            "nanoseconds": 547000000
+        },
+        "translations": {
+            "빌리기": 1
+        },
+        "id": "6T87jw3ma87cKcX0MlG7"
+    },
+    {
+        "translations": {
+            "줄 걸쳐쓰기": 1
+        },
+        "english": "line continuation",
+        "timestamp": {
+            "seconds": 1682658675,
+            "nanoseconds": 82000000
+        },
+        "id": "AdHn4am85gOK56rlZViq"
+    },
+    {
+        "timestamp": {
+            "seconds": 1680497336,
+            "nanoseconds": 675000000
+        },
+        "translations": {
+            "때맞춰 작동하는 번역기": 1,
+            "바로바로 번역기": 2,
+            "때맞춘 번역기": 1,
+            "제때 번역기": 1,
+            "실행때 번역기": 2
+        },
+        "english": "just-in time compiler",
+        "id": "p3hVCaSlhje0X418Hh11"
+    },
+    {
+        "english": "meta programming",
+        "timestamp": {
+            "seconds": 1679906584,
+            "nanoseconds": 533000000
+        },
+        "translations": {
+            "프로그램을 프로그램하기": 1,
+            "프로그래밍을 프로그래밍하기": 1,
+            "프로그램을 다루는 프로그래밍": 1
+        },
+        "id": "wZNhzugJjQHMQHnmg3Ss"
+    },
+    {
+        "translations": {
+            "모든타입에 열려있는 다형성": 1,
+            "모든타입 다형성": 1,
+            "다형성, 타입상관 없음, 타입상관 안함": 1
+        },
+        "english": "parametric polymorphism",
+        "timestamp": {
+            "seconds": 1679625849,
+            "nanoseconds": 100000000
+        },
+        "id": "xQcflMdzyblaPJRBwYR9"
+    },
+    {
+        "timestamp": {
+            "seconds": 1679432468,
+            "nanoseconds": 449000000
+        },
+        "english": "container",
+        "translations": {
+            "컨테이너": 2,
+            "수송용기": 1
+        },
+        "id": "a3R3mSZ4KsETLBXMM97T"
+    },
+    {
+        "translations": {
+            "텅빈주소": 3,
+            "길잃은 주소": 2,
+            "갈곳없는 포인터": 2,
+            "공포인터": 2,
+            "빈 포인터": 1
+        },
+        "english": "null pointer",
+        "timestamp": {
+            "seconds": 1679286918,
+            "nanoseconds": 966000000
+        },
+        "id": "jvhawswNeQHhVuyNbY3d"
+    },
+    {
+        "translations": {
+            "타입적응하는 ": 1,
+            "가짜 다형성": 1,
+            "임기응변 다형성": 2,
+            "타입따라 변하기, 타입따라 변하는, 타입따라 다른 ": 1
+        },
+        "timestamp": {
+            "seconds": 1679274347,
+            "nanoseconds": 653000000
+        },
+        "english": "ad-hoc polymorphism",
+        "id": "zCjkMZSJwk8cs6w7vBGm"
+    },
+    {
+        "translations": {
+            "타입상관없음, 타입상관안함": 1,
+            "타입 적응하는": 1,
+            "다형성": 1
+        },
+        "timestamp": {
+            "seconds": 1678872785,
+            "nanoseconds": 735000000
+        },
+        "english": "polymorphism",
+        "id": "zzsqfaCjf98RhlK0CXK6"
+    },
+    {
+        "translations": {
+            "함수 껍데기": 1,
+            "함수 허물": 1,
+            "껍데기 함수": 3,
+            "허물 함수": 1
+        },
+        "english": "abstract method",
+        "timestamp": {
+            "seconds": 1678857183,
+            "nanoseconds": 608000000
+        },
+        "id": "DDeuj0ppG4pvScmOPVPH"
+    },
+    {
+        "english": "transaction",
+        "timestamp": {
+            "seconds": 1678840118,
+            "nanoseconds": 491000000
+        },
+        "translations": {
+            "되거나 안 되거나": 1,
+            "지르기": 1,
+            "해버리기": 1,
+            "담판 ": 2
+        },
+        "id": "HYdPfgFTrDzDLU3A1IGV"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678839898,
+            "nanoseconds": 98000000
+        },
+        "english": "probably approximately correct, PAC",
+        "translations": {
+            "얼추거의맞는": 2,
+            "얼추거의맞기": 2,
+            "대개거의맞는": 2
+        },
+        "id": "I2Ld287VedpUbwn5ZbMf"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678796213,
+            "nanoseconds": 979000000
+        },
+        "translations": {
+            "해보기 전에 채점하며 개발하기": 2,
+            "테스트중심 개발": 1
+        },
+        "english": "test-driven development",
+        "id": "7BQac5Zwj9SO3WibEh3t"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678775727,
+            "nanoseconds": 88000000
+        },
+        "english": "separation logic",
+        "translations": {
+            "분리논리": 1,
+            "따로논리": 1
+        },
+        "id": "hsPcNjEkh4PLtBu7itt6"
+    },
+    {
+        "english": "temporal logic",
+        "translations": {
+            "시간논리": 1
+        },
+        "timestamp": {
+            "seconds": 1678772702,
+            "nanoseconds": 19000000
+        },
+        "id": "UoCOQt5T0BWjCd1Rv1d7"
+    },
+    {
+        "translations": {
+            "클래스": 1,
+            "틀   ": 1,
+            "물건틀": 1
+        },
+        "english": "class",
+        "timestamp": {
+            "seconds": 1678768421,
+            "nanoseconds": 625000000
+        },
+        "id": "UeeLAfYx6dBK1diwhECu"
+    },
+    {
+        "english": "class method",
+        "timestamp": {
+            "seconds": 1678761006,
+            "nanoseconds": 26000000
+        },
+        "translations": {
+            "붕어빵틀이 제공하는 함수": 1,
+            "함수 ": 1
+        },
+        "id": "VfaE6zGCiIalAbDh9St6"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678760593,
+            "nanoseconds": 878000000
+        },
+        "english": "bug",
+        "translations": {
+            "오류, 실수": 2
+        },
+        "id": "Iqvt059Vt3mxH9EhRknO"
+    },
+    {
+        "translations": {
+            "물건중심 언어": 2,
+            "메세지 중심 언어": 1
+        },
+        "timestamp": {
+            "seconds": 1678751578,
+            "nanoseconds": 959000000
+        },
+        "english": "object-oriented language",
+        "id": "ZJofXnZ7R3WuwEvgspUA"
+    },
+    {
+        "translations": {
+            "sw고장내기": 1,
+            "마구넣기": 1,
+            "마구잡이 sw깨기": 1,
+            "마구잡이 깨기": 1,
+            "마구실행": 1,
+            "실행탐험": 2
+        },
+        "timestamp": {
+            "seconds": 1678725448,
+            "nanoseconds": 244000000
+        },
+        "english": "fuzzing",
+        "id": "OthiLjCVonFIS8IkYshz"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678723275,
+            "nanoseconds": 929000000
+        },
+        "translations": {
+            "흔적  ": 1,
+            "커버한범위": 1,
+            "짚은범위": 1,
+            "덮는 범위": 2,
+            "진도 ": 2,
+            "보장범위": 1
+        },
+        "english": "coverage",
+        "id": "jHaGxdqCiBeY1mcwRSvm"
+    },
+    {
+        "english": "sharding",
+        "timestamp": {
+            "seconds": 1678722586,
+            "nanoseconds": 417000000
+        },
+        "translations": {
+            "여러 창고에 나누어 보관하는": 1
+        },
+        "id": "puFFD8yjB9Dzlr45hj9s"
+    },
+    {
+        "translations": {
+            "기습 바꾸기": 2
+        },
+        "english": "monkey patch",
+        "timestamp": {
+            "seconds": 1678715378,
+            "nanoseconds": 424000000
+        },
+        "id": "vQcf5KmcMN81Xz3WteKJ"
+    },
+    {
+        "english": "algebraic type",
+        "timestamp": {
+            "seconds": 1678676143,
+            "nanoseconds": 234000000
+        },
+        "translations": {},
+        "id": "OmOVLz9ck3CGfTn889XX"
+    },
+    {
+        "english": "instrument",
+        "timestamp": {
+            "seconds": 1678674826,
+            "nanoseconds": 298000000
+        },
+        "translations": {
+            "양념  ": 1,
+            "코드 욱여넣기": 1,
+            "장치달기": 3
+        },
+        "id": "VEnBfwZGBthm1cYjvOQW"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678474919,
+            "nanoseconds": 522000000
+        },
+        "translations": {},
+        "english": "algebraic effect",
+        "id": "sxgNC9kCFOUXXLcKysb3"
+    },
+    {
+        "english": "garbage collection",
+        "timestamp": {
+            "seconds": 1678411723,
+            "nanoseconds": 356000000
+        },
+        "translations": {
+            "메모리 우렁각시": 1,
+            "메모리 수거": 3,
+            "자원 재활용": 1,
+            "노는 메모리 자동 수거": 1,
+            "스마트 로봇 청소기": 2,
+            "메모리 재활용": 3,
+            "쓰레기통 비우기, 휴지통 비우기": 0
+        },
+        "id": "Yc6BDu4yXQIncfieNz50"
+    },
+    {
+        "translations": {
+            "구체적 의미": 1,
+            "의미, 의미구조": 1
+        },
+        "timestamp": {
+            "seconds": 1678400758,
+            "nanoseconds": 600000000
+        },
+        "english": "concrete semantics",
+        "id": "UOzxMGD3AutKpu8GaIbD"
+    },
+    {
+        "translations": {
+            "업무방해": 3,
+            "길막. ": 3,
+            "체증 ": 2
+        },
+        "timestamp": {
+            "seconds": 1678258503,
+            "nanoseconds": 796000000
+        },
+        "english": "denial-of-service",
+        "id": "15HOvCaQhzAE7OJNmiSd"
+    },
+    {
+        "translations": {
+            "메모리주소": 1,
+            "주소 변수": 1
+        },
+        "english": "pointer",
+        "timestamp": {
+            "seconds": 1678250948,
+            "nanoseconds": 353000000
+        },
+        "id": "ZJR6aQaLLZKxq9sSQZ9L"
+    },
+    {
+        "english": "cache",
+        "timestamp": {
+            "seconds": 1678084075,
+            "nanoseconds": 469000000
+        },
+        "translations": {
+            "중간저장소": 1,
+            "보따리, 가방, 주머니": 1,
+            "주머니": 4
+        },
+        "id": "wQCjqTqY3wZekJL2iT6s"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678083360,
+            "nanoseconds": 786000000
+        },
+        "translations": {
+            "양식 ": 1
+        },
+        "english": "mode",
+        "id": "KoKM8dkbsRqCjsbEJaHw"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678075605,
+            "nanoseconds": 614000000
+        },
+        "english": "parsing",
+        "translations": {
+            "쪼개서 이해하기": 1,
+            "문장모양확인하기": 3,
+            "문장구조확인하기": 2,
+            "문장구조복구하기": 4
+        },
+        "id": "dCupNws39HVvGNSHCegf"
+    },
+    {
+        "translations": {
+            "기억하며 풀기": 2,
+            "물려받기 계산법": 2,
+            "계승 계산법": 1,
+            "이어받기 계산법": 1
+        },
+        "english": "dynamic programming",
+        "timestamp": {
+            "seconds": 1678075298,
+            "nanoseconds": 958000000
+        },
+        "id": "6M9HSwyQ0WRPFtVQY32Z"
+    },
+    {
+        "english": "term",
+        "timestamp": {
+            "seconds": 1678069584,
+            "nanoseconds": 203000000
+        },
+        "translations": {
+            "항   ": 2,
+            "식": 1
+        },
+        "id": "lomTBBaPupJQLwQj0W9P"
+    },
+    {
+        "timestamp": {
+            "seconds": 1678014611,
+            "nanoseconds": 574000000
+        },
+        "translations": {
+            "꼭  ": 1,
+            "이랴해": 1,
+            "주장 ": 1,
+            "떼쓰기": 1,
+            "단언 ": 1
+        },
+        "english": "assertion",
+        "id": "AKNg5Prz4FlpNA5l0ZVM"
+    },
+    {
+        "translations": {
+            "사전적 순서": 1,
+            "가나다 순서": 6
+        },
+        "english": "lexicographic order",
+        "timestamp": {
+            "seconds": 1678013839,
+            "nanoseconds": 835000000
+        },
+        "id": "qceGIpJJO5FqUE0rc3mx"
+    },
+    {
+        "english": "hashing",
+        "timestamp": {
+            "seconds": 1677876780,
+            "nanoseconds": 859000000
+        },
+        "translations": {
+            "으깨기": 4,
+            "멀리대응시키기": 2,
+            "다른세상에서멀리대응시키기": 1,
+            "외따로보내버리기": 1
+        },
+        "id": "WjOysZf01V3GFDw26sUe"
+    },
+    {
+        "english": "lexer",
+        "timestamp": {
+            "seconds": 1677825878,
+            "nanoseconds": 250000000
+        },
+        "translations": {
+            "낱말파악기": 3
+        },
+        "id": "VbFA32Rhb27fMchonoOg"
+    },
+    {
+        "english": "abstract syntax",
+        "translations": {
+            "문장 구성규칙": 1,
+            "문장 구성방법": 1,
+            "요약한 구조": 2,
+            "본질 문법": 1,
+            "문장 구성법": 1,
+            "문장 조립법": 1,
+            "문장 조립규칙": 1,
+            "문장 조립방법": 1,
+            "핵심 문법구조": 1,
+            "뼈대 구문": 1
+        },
+        "timestamp": {
+            "seconds": 1677825362,
+            "nanoseconds": 324000000
+        },
+        "id": "KwSm82E7vMMEtbaZWndO"
+    },
+    {
+        "translations": {
+            "전부 덮는 나무": 2,
+            "다 덮는 나무": 1
+        },
+        "english": "spanning tree",
+        "timestamp": {
+            "seconds": 1677820212,
+            "nanoseconds": 667000000
+        },
+        "id": "ttXqAiJikvUCQlsNMXu6"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677815087,
+            "nanoseconds": 528000000
+        },
+        "translations": {
+            "낱말파악하기": 2,
+            "문자열거르고분류하기": 1
+        },
+        "english": "lexical analysis",
+        "id": "sXv6G6dDL62vx0vO8Sv3"
+    },
+    {
+        "english": "invariant",
+        "translations": {
+            "꾸준한 성질": 1,
+            "항상성질": 1,
+            "불변성질": 2,
+            "변함없는 성질": 2
+        },
+        "timestamp": {
+            "seconds": 1677743142,
+            "nanoseconds": 482000000
+        },
+        "id": "rxYnVEaRKtXThtV1RFIi"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677741941,
+            "nanoseconds": 601000000
+        },
+        "translations": {
+            "축지법": 2
+        },
+        "english": "widening",
+        "id": "F0lY5DVUD6mXKEBUDizq"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677636972,
+            "nanoseconds": 608000000
+        },
+        "english": "fairness",
+        "translations": {
+            "골고루, 공평, 두루빠짐없이": 1
+        },
+        "id": "NM3xWmGu1yidhZuvC7V6"
+    },
+    {
+        "english": "unification",
+        "timestamp": {
+            "seconds": 1677561409,
+            "nanoseconds": 654000000
+        },
+        "translations": {
+            "동일화": 1,
+            "통일하기": 0,
+            "같게 만들기": 1
+        },
+        "id": "pfimQqA4kyjenjVe8KGz"
+    },
+    {
+        "english": "weak/relaxed memory",
+        "timestamp": {
+            "seconds": 1677558822,
+            "nanoseconds": 940000000
+        },
+        "translations": {
+            "시간순서가 느슨한 메모리": 1,
+            "느긋한 메모리": 3,
+            "옛값과 새값의 경계가 느슨한 메모리": 0,
+            "느슨한 메모리 ": 1
+        },
+        "id": "HlYkJmbYclTK3aWNbpSJ"
+    },
+    {
+        "english": "safety property",
+        "timestamp": {
+            "seconds": 1677558722,
+            "nanoseconds": 247000000
+        },
+        "translations": {
+            "항상성질": 1,
+            "늘 유지되는 성질": 1,
+            "항상 유지되는 성질": 1,
+            "늘성질": 1
+        },
+        "id": "DIyWnoEu0SpyXRE0X0qm"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677511324,
+            "nanoseconds": 860000000
+        },
+        "translations": {
+            "때면이": 1,
+            "이면면": 1,
+            "이면이": 2,
+            "이면-이려면": 0,
+            "이면/일때만": 1
+        },
+        "english": "iff",
+        "id": "EbEh4xctYriYMdN6av86"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677509250,
+            "nanoseconds": 654000000
+        },
+        "translations": {
+            "문법적 편의사항": 0,
+            "제로칼로리 문법": 0,
+            "설탕문법": 1,
+            "설탕구조": 2
+        },
+        "english": "syntactic sugar",
+        "id": "DA59KD6G385zeqQjg7iN"
+    },
+    {
+        "english": "leaf",
+        "timestamp": {
+            "seconds": 1677500783,
+            "nanoseconds": 148000000
+        },
+        "translations": {
+            "잎, 이파리": 2,
+            "말단노드": 1
+        },
+        "id": "OZA3910P8CAy0c6EO8Wo"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677500683,
+            "nanoseconds": 195000000
+        },
+        "english": "specification",
+        "translations": {
+            "설명서": 1,
+            "명세": 2
+        },
+        "id": "r9BjiqmJSczUZamPFt2M"
+    },
+    {
+        "english": "annotation",
+        "timestamp": {
+            "seconds": 1677499878,
+            "nanoseconds": 216000000
+        },
+        "translations": {
+            "붙여쓰기, 붙여쓴글": 0,
+            "덧댄글, 덧글, 몇마디": 2
+        },
+        "id": "FViUh2ybJu7vRp7iWfIu"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677497130,
+            "nanoseconds": 465000000
+        },
+        "translations": {
+            "가로질러 계산하기": 2,
+            "지름길계산": 3,
+            "단축계산": 2,
+            "금메달계산": 3
+        },
+        "english": "short-circuit evaluation",
+        "id": "8hzZxrOM8pkcb94ym5O0"
+    },
+    {
+        "translations": {
+            "가성비 나쁜": 1,
+            "품이 많이 드는": 2,
+            "돈이 아까운": 1,
+            "비용이 아까운": 1
+        },
+        "english": "cost-ineffective",
+        "timestamp": {
+            "seconds": 1677488046,
+            "nanoseconds": 168000000
+        },
+        "id": "Wuop1GwqR5eidYFdFPpN"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677484472,
+            "nanoseconds": 451000000
+        },
+        "translations": {
+            "비용이 아깝지않은, 돈이 안아까운": 1,
+            "품이 아깝지않은": 1,
+            "가성비 좋은": 1
+        },
+        "english": "cost-effective",
+        "id": "k3lXi8zEpT7v6vQWWHW0"
+    },
+    {
+        "english": "mutual recursive",
+        "timestamp": {
+            "seconds": 1677480495,
+            "nanoseconds": 918000000
+        },
+        "translations": {
+            "서로 호출하는": 1,
+            "맞재귀": 1,
+            "서로 맞물려서 호출하는": 1
+        },
+        "id": "GTQxKMTr3yRQvpnshMmQ"
+    },
+    {
+        "translations": {
+            "뭐냐, 물음, 묻기, 알아봐죠": 1,
+            "퀴어리": 1
+        },
+        "timestamp": {
+            "seconds": 1677473862,
+            "nanoseconds": 15000000
+        },
+        "english": "query",
+        "id": "iqdxhT0qiN3AXrLD54am"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677473680,
+            "nanoseconds": 618000000
+        },
+        "english": "continuation",
+        "translations": {
+            "앞으로 할 계산": 1,
+            "후속 ": 1,
+            "앞으로 할 일": 2
+        },
+        "id": "tupH7PVPJVzncfkswulh"
+    },
+    {
+        "english": "statement",
+        "translations": {
+            "컴터문": 1,
+            "프로그램문, 프로그램식, 글, 문장": 1
+        },
+        "timestamp": {
+            "seconds": 1677465218,
+            "nanoseconds": 912000000
+        },
+        "id": "ipW6UaSqqYFSyuLApf3f"
+    },
+    {
+        "translations": {
+            "메모리 주소": 1,
+            "지목값": 1,
+            "인용 ": 1
+        },
+        "timestamp": {
+            "seconds": 1677462512,
+            "nanoseconds": 317000000
+        },
+        "english": "reference",
+        "id": "fsRgSZO52dbu9BJqRDeh"
+    },
+    {
+        "translations": {
+            "짝": 1,
+            "줄모임": 2
+        },
+        "timestamp": {
+            "seconds": 1677461419,
+            "nanoseconds": 821000000
+        },
+        "english": "tuple",
+        "id": "1BW3Bnwa8is4VzVS4tWp"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677414738,
+            "nanoseconds": 192000000
+        },
+        "english": "call by value",
+        "translations": {
+            "적용 먼저": 1,
+            "값전달 호출": 2
+        },
+        "id": "jDnLs5Yy1XT9gD2Sacnc"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677413990,
+            "nanoseconds": 270000000
+        },
+        "translations": {
+            "인자": 1,
+            "매개변수": 4
+        },
+        "english": "parameter",
+        "id": "5UAT5sZzRMDbd6qeOEIW"
+    },
+    {
+        "translations": {
+            "새치기 실행": 3
+        },
+        "timestamp": {
+            "seconds": 1677413561,
+            "nanoseconds": 917000000
+        },
+        "english": "out-of-order execution",
+        "id": "BTf0oUtCqGLMxqp4BBSb"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677413512,
+            "nanoseconds": 365000000
+        },
+        "translations": {
+            "치른비용": 1,
+            "부담  ": 1,
+            "비용  ": 1,
+            "따름비용": 1
+        },
+        "english": "overhead",
+        "id": "1xDR5IxnDazthvl7pAGS"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677304810,
+            "nanoseconds": 951000000
+        },
+        "translations": {
+            "순서없는, 뒤죽박죽인, 순서를 따르지않는": 2,
+            "위아래가 없는": 1,
+            "비순차": 1,
+            "새치기": 2
+        },
+        "english": "out-of-order ",
+        "id": "Jc7kgmgW1PWJ1gLJt0fm"
+    },
+    {
+        "english": "runtime",
+        "timestamp": {
+            "seconds": 1677288526,
+            "nanoseconds": 7000000
+        },
+        "translations": {
+            "실행시간": 1,
+            "실행 와중": 1,
+            "실행중": 1,
+            "실행환경": 1
+        },
+        "id": "PuYd2gmwc3BW16JYNzfh"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677221871,
+            "nanoseconds": 994000000
+        },
+        "translations": {
+            "뒷단 ": 1,
+            "속내용": 1
+        },
+        "english": "backend",
+        "id": "0qwtE3SYu6ppvJuf3LDK"
+    },
+    {
+        "english": "frontend",
+        "timestamp": {
+            "seconds": 1677221712,
+            "nanoseconds": 308000000
+        },
+        "translations": {
+            "겉내용": 1,
+            "앞단 ": 1
+        },
+        "id": "8gbf2NpatdYCV6trRgLO"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677221064,
+            "nanoseconds": 361000000
+        },
+        "translations": {
+            "뭉쳐가며 정렬": 1,
+            "합치기 정렬": 1
+        },
+        "english": "merge sort",
+        "id": "7ExHOZJck1qmpY6vmGWm"
+    },
+    {
+        "translations": {
+            "제대로 생긴": 2,
+            "잘 만든": 1,
+            "잘생긴": 1
+        },
+        "english": "well-formed",
+        "timestamp": {
+            "seconds": 1677212783,
+            "nanoseconds": 60000000
+        },
+        "id": "HtOxw4Cht5wAylVblh4c"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677183483,
+            "nanoseconds": 908000000
+        },
+        "translations": {
+            "통짜, 통짜형": 2,
+            "일체형": 2,
+            "하나로, 한통으로": 1,
+            "단조로운": 2
+        },
+        "english": "monolithic",
+        "id": "WVDlpqF19yGFYChrc9vT"
+    },
+    {
+        "translations": {
+            "넘침 ": 1,
+            "계산넘침, 스택넘침": 1
+        },
+        "timestamp": {
+            "seconds": 1677182055,
+            "nanoseconds": 661000000
+        },
+        "english": "overflow",
+        "id": "P4K9LQ4Pay12s4lkGOW2"
+    },
+    {
+        "translations": {
+            "식전달 호출": 1,
+            "인자 먼저": 1
+        },
+        "timestamp": {
+            "seconds": 1677152215,
+            "nanoseconds": 877000000
+        },
+        "english": "call by name",
+        "id": "k9lBb82EBlSnKSQLftR0"
+    },
+    {
+        "translations": {
+            "핵심간추린 것으로 차곡차곡 쌓기": 1,
+            "요약 단계": 2,
+            "속내용 감추며 차곡차곡 쌓기": 2
+        },
+        "timestamp": {
+            "seconds": 1677129325,
+            "nanoseconds": 326000000
+        },
+        "english": "abstraction hierarchy",
+        "id": "x3IX0M6lGVJu1W8wurKK"
+    },
+    {
+        "english": "dereference",
+        "timestamp": {
+            "seconds": 1677129112,
+            "nanoseconds": 361000000
+        },
+        "translations": {
+            "메모리읽기": 1,
+            "값꺼내기": 1
+        },
+        "id": "A8MIvkSB4jRP03zKCLf7"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677126930,
+            "nanoseconds": 994000000
+        },
+        "translations": {
+            "거품 정렬": 2,
+            "뽀글뽀글정렬": 1
+        },
+        "english": "bubble sort",
+        "id": "eA97OdZdArA2udQMLeYF"
+    },
+    {
+        "english": "syntax",
+        "timestamp": {
+            "seconds": 1677123232,
+            "nanoseconds": 549000000
+        },
+        "translations": {
+            "생김새": 2,
+            "문법구조": 1,
+            "겉모양": 1,
+            "문법": 1
+        },
+        "id": "6f6tGIlKGhSsJpDBgAS5"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677122692,
+            "nanoseconds": 489000000
+        },
+        "english": "informal verification",
+        "translations": {
+            "감검증": 1,
+            "느낌검증": 2,
+            "가검증": 1
+        },
+        "id": "MTTAsicFoMImt3M8zXzs"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677122643,
+            "nanoseconds": 63000000
+        },
+        "translations": {
+            "엄격하게 검증하기": 1,
+            "찐검증": 1,
+            "엄검증": 4,
+            "엄격한 검증": 1
+        },
+        "english": "formal verification",
+        "id": "pcOWyKkKlZrVxyjG0u0s"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677120654,
+            "nanoseconds": 427000000
+        },
+        "english": "rewrite",
+        "translations": {
+            "재작성": 2,
+            "다시쓰기": 1,
+            "바꿔쓰기": 1
+        },
+        "id": "M5ZHxftvpiN9sZysYDDH"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677110641,
+            "nanoseconds": 328000000
+        },
+        "translations": {
+            "값 계산을 최대한 미루는": 1,
+            "소극적 계산법": 1,
+            "제때 계산법": 1,
+            "미룬계산": 2,
+            "필요한 때만 값을 계산하는": 1
+        },
+        "english": "lazy evaluation",
+        "id": "3QzQv8ntKo9uEF3UTRPi"
+    },
+    {
+        "translations": {
+            "줄세울 수 있는": 1
+        },
+        "timestamp": {
+            "seconds": 1677109016,
+            "nanoseconds": 799000000
+        },
+        "english": "linearizable",
+        "id": "mYWi6brCOwZphkJLgAVq"
+    },
+    {
+        "translations": {
+            "느낌적인": 2
+        },
+        "english": "informal",
+        "timestamp": {
+            "seconds": 1677108433,
+            "nanoseconds": 806000000
+        },
+        "id": "IqZnFVlsR7IpWQMFTxWT"
+    },
+    {
+        "translations": {
+            "적극적인 계산": 2,
+            "적극적인 계산법": 1,
+            "부지런한 계산법": 1,
+            "바로계산": 3,
+            "부지런한 계산": 2
+        },
+        "timestamp": {
+            "seconds": 1677075631,
+            "nanoseconds": 174000000
+        },
+        "english": "eager evaluation",
+        "id": "RcvS4IIZmQ7pwJV9WipA"
+    },
+    {
+        "english": "mutable",
+        "timestamp": {
+            "seconds": 1677070799,
+            "nanoseconds": 96000000
+        },
+        "translations": {
+            "변할수있는": 1,
+            "가변 ": 2
+        },
+        "id": "PV4CaydNXi45RnJOXJAN"
+    },
+    {
+        "translations": {
+            "완전 정의 함수": 1,
+            "완전히 정의된 함수": 2,
+            "전체 함수": 1,
+            "다덤벼 함수": 2
+        },
+        "english": "total function",
+        "timestamp": {
+            "seconds": 1677070122,
+            "nanoseconds": 463000000
+        },
+        "id": "qW6R2GhmU1BojlLF5KVe"
+    },
+    {
+        "english": "closure",
+        "timestamp": {
+            "seconds": 1677069759,
+            "nanoseconds": 243000000
+        },
+        "translations": {
+            "오므린함수": 2,
+            "함수값": 1,
+            "다된함수, 닫힌함수": 1
+        },
+        "id": "JKBL395O0JNBpJiZj0OP"
+    },
+    {
+        "english": "weakly consistent memory",
+        "translations": {
+            "약한 메모리": 2
+        },
+        "timestamp": {
+            "seconds": 1677063128,
+            "nanoseconds": 398000000
+        },
+        "id": "PR5sRB28paAAajk0MU2e"
+    },
+    {
+        "translations": {
+            "에비에비 포인터": 2
+        },
+        "english": "hazard pointer",
+        "timestamp": {
+            "seconds": 1677044498,
+            "nanoseconds": 985000000
+        },
+        "id": "Zdu6B5KcPDMYavNmiSKR"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677041129,
+            "nanoseconds": 551000000
+        },
+        "english": "refactoring",
+        "translations": {
+            "코드정리하기": 1,
+            "코드 정리정돈하기": 1
+        },
+        "id": "S91wvtp4SdxSYC3p4g2j"
+    },
+    {
+        "english": "top-down program synthesis",
+        "translations": {
+            "전체에서 부품으로 프로그램 합성하기": 1,
+            "빈칸메꾸기로 합성하기": 1,
+            "큰 틀을 먼저 정하면서 프로그램 합성하기": 1,
+            "위에서부터 프로그램 합성해하기": 1,
+            "아래로 합성": 2,
+            "메뉴부터 정해서 프로그램 요리하기": 3
+        },
+        "timestamp": {
+            "seconds": 1677040297,
+            "nanoseconds": 679000000
+        },
+        "id": "6cRxfdrqjKd0Ftwramsg"
+    },
+    {
+        "translations": {
+            "조립식": 1
+        },
+        "english": "compositionality",
+        "timestamp": {
+            "seconds": 1677039982,
+            "nanoseconds": 444000000
+        },
+        "id": "yrKbamxuE8xXUkZfkDuZ"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677039950,
+            "nanoseconds": 698000000
+        },
+        "english": "compositional",
+        "translations": {
+            "조립식": 1
+        },
+        "id": "iocPBLPlZ66sja74emJQ"
+    },
+    {
+        "timestamp": {
+            "seconds": 1677016271,
+            "nanoseconds": 792000000
+        },
+        "translations": {
+            "변할수없는": 1,
+            "불변 ": 2
+        },
+        "english": "immutable",
+        "id": "ZGZT5jyOiPXP72cZSENK"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676999634,
+            "nanoseconds": 878000000
+        },
+        "translations": {
+            "네트워크": 2,
+            "넷트웍": 0
+        },
+        "english": "network",
+        "id": "D0fctWWm92jreZc70I6u"
+    },
+    {
+        "translations": {
+            "탄탄한": 3,
+            "바닥이 있는": 1,
+            "올바르게 기초한": 1,
+            "바닥이 갖추어진": 1
+        },
+        "english": "well-founded",
+        "timestamp": {
+            "seconds": 1676999364,
+            "nanoseconds": 104000000
+        },
+        "id": "ZKt8LDs9MUFo2gePfMJV"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676999282,
+            "nanoseconds": 573000000
+        },
+        "translations": {
+            "부분 정의 함수": 2,
+            "일부만 정의된 함수": 1,
+            "일부만 함수": 1
+        },
+        "english": "partial function",
+        "id": "4iIbrKEheKTBRopxYegO"
+    },
+    {
+        "translations": {
+            "협동 과정": 1,
+            "코루틴": 1
+        },
+        "timestamp": {
+            "seconds": 1676999024,
+            "nanoseconds": 184000000
+        },
+        "english": "coroutine",
+        "id": "GjUkyZPSoddoue0NT0Iv"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676998944,
+            "nanoseconds": 559000000
+        },
+        "english": "asynchronous programming",
+        "translations": {
+            "비동기 프로그래밍": 1
+        },
+        "id": "IUAqsAb18ivaKLN6aMK6"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676998876,
+            "nanoseconds": 66000000
+        },
+        "english": "metalanguage",
+        "translations": {
+            "언어를 설명하는 언어": 1,
+            "메타언어": 3
+        },
+        "id": "ewTyft9TbrMf6oYoyvde"
+    },
+    {
+        "translations": {
+            "바닥부터 프로그램 합성해가기": 1,
+            "재료부터 정해서 프로그램 요리하기": 3,
+            "작은 식 조립해서 큰 프로그램 합성하기": 1,
+            "부품에서 전체로 프로그램 합성하기": 1,
+            "조립식으로 합성하기": 2
+        },
+        "timestamp": {
+            "seconds": 1676989085,
+            "nanoseconds": 628000000
+        },
+        "english": "bottom-up program synthesis",
+        "id": "cDEYbhqBW3CY125IZBkt"
+    },
+    {
+        "english": "variant type",
+        "translations": {
+            "모둠 타입": 0,
+            "모듬타입": 1,
+            "가지 타입": 1,
+            "갈래 타입": 3
+        },
+        "timestamp": {
+            "seconds": 1676988210,
+            "nanoseconds": 432000000
+        },
+        "id": "f7V2VQkIDvdpO7FN2z7O"
+    },
+    {
+        "english": "exception handling",
+        "translations": {
+            "예외상황 처리": 1,
+            "예외처리": 1
+        },
+        "timestamp": {
+            "seconds": 1676987253,
+            "nanoseconds": 473000000
+        },
+        "id": "nF65SAgBLVjgXLm6cHjR"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676987065,
+            "nanoseconds": 662000000
+        },
+        "english": "case expression",
+        "translations": {
+            "갈라치기식": 1,
+            "선택식": 1,
+            "분기식": 2
+        },
+        "id": "VKr3vTUDTNDBOZLV6E2o"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676973014,
+            "nanoseconds": 443000000
+        },
+        "english": "syntax analysis",
+        "translations": {
+            "겉모양 분석": 1,
+            "생김새 분석": 1,
+            "문법 구조 분석": 1
+        },
+        "id": "5dg6ScJBknSez0biYfY3"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676972774,
+            "nanoseconds": 310000000
+        },
+        "translations": {
+            "문법적인 제약": 1,
+            "생김새 조건": 1
+        },
+        "english": "syntactic constraint",
+        "id": "Db0gpaftQXIRrO0FZ8D6"
+    },
+    {
+        "english": "dependent type",
+        "translations": {
+            "값에 기댄 타입": 1,
+            "값을 끼고 정의한 타입": 2
+        },
+        "timestamp": {
+            "seconds": 1676972521,
+            "nanoseconds": 108000000
+        },
+        "id": "CbAlq0AHgVjVK1YMXI9r"
+    },
+    {
+        "translations": {
+            "늘 정답내기가 컴퓨터로는 불가능한": 1,
+            "컴퓨터로는 불가능한": 1,
+            "컴퓨터로 늘 정답내기는 불가능한": 1,
+            "컴퓨터로는 할 수 없는": 1
+        },
+        "english": "undecidable",
+        "timestamp": {
+            "seconds": 1676968178,
+            "nanoseconds": 839000000
+        },
+        "id": "SlSEuM65J9kJneS5oB3m"
+    },
+    {
+        "translations": {
+            "임의 패턴": 1
+        },
+        "timestamp": {
+            "seconds": 1676964329,
+            "nanoseconds": 359000000
+        },
+        "english": "wild pattern",
+        "id": "l3a2IixGk6IcICVdrtv0"
+    },
+    {
+        "english": "bi-variant",
+        "translations": {
+            "맞춰거슬러 변하기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964324,
+            "nanoseconds": 582000000
+        },
+        "id": "R8tjumun1RStVaLqAdUy"
+    },
+    {
+        "translations": {
+            "거슬러 변하기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964323,
+            "nanoseconds": 893000000
+        },
+        "english": "contra-variant",
+        "id": "zcwRBm3XwsG37mO4tzF5"
+    },
+    {
+        "translations": {
+            "맞춰 변하기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964323,
+            "nanoseconds": 254000000
+        },
+        "english": "co-variant",
+        "id": "rNYYClZjxo0ZC7L2WoO7"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964322,
+            "nanoseconds": 743000000
+        },
+        "english": "variable",
+        "translations": {
+            "변수": 1
+        },
+        "id": "C3cSHvJoIuRhutbKXJHE"
+    },
+    {
+        "english": "value bind",
+        "translations": {
+            "값 정의": 1
+        },
+        "timestamp": {
+            "seconds": 1676964321,
+            "nanoseconds": 907000000
+        },
+        "id": "8Y9HlZ1bNsh4AyIozxxD"
+    },
+    {
+        "english": "value",
+        "timestamp": {
+            "seconds": 1676964321,
+            "nanoseconds": 265000000
+        },
+        "translations": {
+            "값": 1
+        },
+        "id": "e74aXEdugaLrjMusskOA"
+    },
+    {
+        "translations": {
+            "타입변수가 어떤 타입으로 바꿔치기될 수 있는": 1
+        },
+        "english": "existentially quantified type",
+        "timestamp": {
+            "seconds": 1676964320,
+            "nanoseconds": 626000000
+        },
+        "id": "rrZ4nDemlJBBW5SxXnTl"
+    },
+    {
+        "english": "univerally quantified type",
+        "translations": {
+            "타입변수가 모든 타입으로 바꿔치기될 수 있는": 1
+        },
+        "timestamp": {
+            "seconds": 1676964319,
+            "nanoseconds": 595000000
+        },
+        "id": "clXqneIkm2uUcvRN507N"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964318,
+            "nanoseconds": 898000000
+        },
+        "english": "universal machine",
+        "translations": {
+            "보편만능 기계": 1
+        },
+        "id": "X5DSWOl8fr0WqwKlX9Wp"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964315,
+            "nanoseconds": 458000000
+        },
+        "translations": {
+            "야금야금 함수를 단번 함수로": 1,
+            "언커링": 1
+        },
+        "english": "uncurrying",
+        "id": "DMztQvUARDNf1eZm6rh9"
+    },
+    {
+        "english": "unary",
+        "translations": {
+            "인자가 하나인": 1
+        },
+        "timestamp": {
+            "seconds": 1676964314,
+            "nanoseconds": 148000000
+        },
+        "id": "Qgnkp3oUofEWplVVzbKh"
+    },
+    {
+        "english": "typing rule",
+        "timestamp": {
+            "seconds": 1676964311,
+            "nanoseconds": 290000000
+        },
+        "translations": {
+            "타입 결정 규칙": 1,
+            "타입 유추 규칙": 1
+        },
+        "id": "dUGtJNpVh1mdsyVq8ktZ"
+    },
+    {
+        "translations": {
+            "타입": 1
+        },
+        "timestamp": {
+            "seconds": 1676964309,
+            "nanoseconds": 951000000
+        },
+        "english": "type",
+        "id": "qNEebxjxKCif74xoxLQ6"
+    },
+    {
+        "translations": {
+            "타입 변수": 1
+        },
+        "english": "type variable",
+        "timestamp": {
+            "seconds": 1676964309,
+            "nanoseconds": 294000000
+        },
+        "id": "p5VGU61cqJYHyCshb7Xe"
+    },
+    {
+        "english": "type structure",
+        "translations": {
+            "타입 구조": 1
+        },
+        "timestamp": {
+            "seconds": 1676964308,
+            "nanoseconds": 555000000
+        },
+        "id": "1JM66l8nCdO62QQ5oK6B"
+    },
+    {
+        "translations": {
+            "타입 틀": 1
+        },
+        "english": "type scheme",
+        "timestamp": {
+            "seconds": 1676964307,
+            "nanoseconds": 907000000
+        },
+        "id": "L7iWkhmIqozhv51Jkdlr"
+    },
+    {
+        "english": "type scheme generalization",
+        "timestamp": {
+            "seconds": 1676964307,
+            "nanoseconds": 226000000
+        },
+        "translations": {
+            "타입 틀 만들기": 1,
+            "타입 틀로 일반화하기": 1
+        },
+        "id": "6eLnzZNmb9DWuOTvkG1b"
+    },
+    {
+        "english": "type realization",
+        "translations": {
+            "타입 틀 실현": 1
+        },
+        "timestamp": {
+            "seconds": 1676964305,
+            "nanoseconds": 886000000
+        },
+        "id": "nEyKiJBR1DBBy0hV7Jg9"
+    },
+    {
+        "english": "type instantiation",
+        "translations": {
+            "타입 틀 적용": 1,
+            "타입 틀 구체화": 1
+        },
+        "timestamp": {
+            "seconds": 1676964305,
+            "nanoseconds": 246000000
+        },
+        "id": "GSWUjzUcp1waMExLaIfP"
+    },
+    {
+        "translations": {
+            "타입 틀 구체화": 1,
+            "타입 틀 적용": 1
+        },
+        "english": "type scheme instantiation",
+        "timestamp": {
+            "seconds": 1676964303,
+            "nanoseconds": 863000000
+        },
+        "id": "bJvbqHVNvg84cmdGMsqr"
+    },
+    {
+        "translations": {
+            "타입 유추하기": 1,
+            "타입 알아내기": 1,
+            "타입유추": 2
+        },
+        "timestamp": {
+            "seconds": 1676964302,
+            "nanoseconds": 547000000
+        },
+        "english": "type inference",
+        "id": "1OYL1gb84K0mE3ceRc2l"
+    },
+    {
+        "english": "type expression",
+        "timestamp": {
+            "seconds": 1676964300,
+            "nanoseconds": 495000000
+        },
+        "translations": {
+            "타입식": 1
+        },
+        "id": "5AfMgz2OwhwqLTHGFXdT"
+    },
+    {
+        "english": "type constructor",
+        "translations": {
+            "타입 구성자": 1
+        },
+        "timestamp": {
+            "seconds": 1676964299,
+            "nanoseconds": 807000000
+        },
+        "id": "AgxtcYxXistoUK4N73yf"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964299,
+            "nanoseconds": 163000000
+        },
+        "translations": {
+            "타입 정의": 1
+        },
+        "english": "type bind",
+        "id": "r4z8i2c9XVLiMoB1u9ts"
+    },
+    {
+        "translations": {
+            "타입 줄임말": 1
+        },
+        "english": "type abbreviation",
+        "timestamp": {
+            "seconds": 1676964298,
+            "nanoseconds": 498000000
+        },
+        "id": "mdQht274EKl72yBecCCv"
+    },
+    {
+        "english": "effect type",
+        "timestamp": {
+            "seconds": 1676964297,
+            "nanoseconds": 841000000
+        },
+        "translations": {
+            "값종류 이외의 성질을 추적하는 타입": 1,
+            "기타성질을 추적하는 타입": 1
+        },
+        "id": "QXO7X42c6YJJyFv57IDr"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964296,
+            "nanoseconds": 473000000
+        },
+        "english": "refinement type",
+        "translations": {
+            "다듬어가는 타입": 1
+        },
+        "id": "L4EaoGbAE7GCGPMEgVN3"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964294,
+            "nanoseconds": 884000000
+        },
+        "english": "linear type",
+        "translations": {
+            "일회성인지 추적하는 타입": 1,
+            "선형 타입": 1
+        },
+        "id": "5iIeLwudKMMKPMFJDF1n"
+    },
+    {
+        "english": "kind",
+        "timestamp": {
+            "seconds": 1676964293,
+            "nanoseconds": 551000000
+        },
+        "translations": {
+            "타입의 타입": 1
+        },
+        "id": "YSmDfidGbDjH25faeqRC"
+    },
+    {
+        "translations": {
+            "나무구조": 1,
+            "가지구조": 1
+        },
+        "english": "tree",
+        "timestamp": {
+            "seconds": 1676964291,
+            "nanoseconds": 445000000
+        },
+        "id": "RJpmt5c9YoWspKn66wxV"
+    },
+    {
+        "translations": {
+            "가장 위 선언": 1
+        },
+        "english": "top-level declaration",
+        "timestamp": {
+            "seconds": 1676964289,
+            "nanoseconds": 472000000
+        },
+        "id": "t1zgnCuP30yAFndy37th"
+    },
+    {
+        "translations": {
+            "가장 위 선언": 1
+        },
+        "timestamp": {
+            "seconds": 1676964288,
+            "nanoseconds": 794000000
+        },
+        "english": "top declaration",
+        "id": "P7lg0p8V33TVUvc8dpyU"
+    },
+    {
+        "translations": {
+            "거푸집": 1
+        },
+        "english": "template",
+        "timestamp": {
+            "seconds": 1676964287,
+            "nanoseconds": 502000000
+        },
+        "id": "LT77Y6r5qjaT3HLFSqSI"
+    },
+    {
+        "translations": {
+            "마지막에 자기자신을 부르는": 1,
+            "꼬리재귀": 1,
+            "자기 호출이 마지막인": 1,
+            "끝재귀": 1
+        },
+        "timestamp": {
+            "seconds": 1676964286,
+            "nanoseconds": 857000000
+        },
+        "english": "tail recursive",
+        "id": "zgWcq1YoHiXAU0wBejo9"
+    },
+    {
+        "english": "symbol",
+        "translations": {
+            "심벌": 1
+        },
+        "timestamp": {
+            "seconds": 1676964279,
+            "nanoseconds": 52000000
+        },
+        "id": "LiaFkWtXYlsI7wic2v2t"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964278,
+            "nanoseconds": 357000000
+        },
+        "translations": {
+            "바꿔치기": 1
+        },
+        "english": "substitution",
+        "id": "ZCyMan4ws91I0GNKBCpa"
+    },
+    {
+        "english": "structure expression",
+        "timestamp": {
+            "seconds": 1676964277,
+            "nanoseconds": 682000000
+        },
+        "translations": {
+            "모듈식": 1
+        },
+        "id": "IlKIp3wgPJKrDF6pbYYL"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964277,
+            "nanoseconds": 42000000
+        },
+        "translations": {
+            "모듈 접속방안": 1
+        },
+        "english": "structure description",
+        "id": "v65bUNeP381j2MbXghqN"
+    },
+    {
+        "translations": {
+            "모듈 정의": 1
+        },
+        "timestamp": {
+            "seconds": 1676964276,
+            "nanoseconds": 394000000
+        },
+        "english": "structure bind",
+        "id": "QqStxP7MHS2A4CGpEwxr"
+    },
+    {
+        "translations": {
+            "모듈": 1
+        },
+        "english": "structure",
+        "timestamp": {
+            "seconds": 1676964275,
+            "nanoseconds": 737000000
+        },
+        "id": "oLUv5RRQOKLA8k4R4sX0"
+    },
+    {
+        "translations": {
+            "글자실": 1,
+            "문자열": 2
+        },
+        "timestamp": {
+            "seconds": 1676964275,
+            "nanoseconds": 30000000
+        },
+        "english": "string",
+        "id": "f7NlXmT9yvyTFnr9mapQ"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964273,
+            "nanoseconds": 652000000
+        },
+        "english": "strict evaluation",
+        "translations": {
+            "일단 값을 계산하고 보는": 1,
+            "적극적 계산법": 1
+        },
+        "id": "vLwjLqtxu1ZZo0HVkgXX"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964272,
+            "nanoseconds": 530000000
+        },
+        "translations": {
+            "위타입": 1,
+            "상위타입": 1
+        },
+        "english": "supertype",
+        "id": "oeBYv1q0kA9uJEjNBeQJ"
+    },
+    {
+        "english": "subtype",
+        "timestamp": {
+            "seconds": 1676964270,
+            "nanoseconds": 942000000
+        },
+        "translations": {
+            "하위타입": 2,
+            "아래타입": 1
+        },
+        "id": "fkaRTOrpnFL9TiBTvcOa"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964269,
+            "nanoseconds": 385000000
+        },
+        "english": "gradual typing",
+        "translations": {
+            "실행전과 실행중 타입검사 섞어하기": 1
+        },
+        "id": "4yuTbda6d6Y0SgnY9N2n"
+    },
+    {
+        "translations": {
+            "계산중에 타입검사하는 언어": 1,
+            "실행중에 타입검사하는 언어": 1,
+            "돌때 타입검사하는 언어": 1
+        },
+        "english": "dynamically typed language",
+        "timestamp": {
+            "seconds": 1676964268,
+            "nanoseconds": 745000000
+        },
+        "id": "CjfCpUQddruz4SrKB5sM"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964266,
+            "nanoseconds": 580000000
+        },
+        "english": "statically typed language",
+        "translations": {
+            "실행전에 타입검사하는 언어": 1,
+            "미리 타입검사하는 언어": 1,
+            "계산전에 타입검사하는 언어": 1
+        },
+        "id": "mdJyqzZHrJg8IQpBNxGW"
+    },
+    {
+        "translations": {
+            "실행중에 드러난 타입": 1
+        },
+        "english": "dynamic type",
+        "timestamp": {
+            "seconds": 1676964264,
+            "nanoseconds": 514000000
+        },
+        "id": "VZmr62gengSoUpobAfXn"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964263,
+            "nanoseconds": 805000000
+        },
+        "english": "static type",
+        "translations": {
+            "실행전에 파악된 타입": 1
+        },
+        "id": "qp9Pb3soIIWqCocZmPGM"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964263,
+            "nanoseconds": 63000000
+        },
+        "english": "static semantics",
+        "translations": {
+            "프로그램 기획": 1,
+            "프로그램의 타입 의미구조": 1,
+            "정적 의미구조": 1
+        },
+        "id": "f6jmUC7AZHhaxVjydCPB"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964261,
+            "nanoseconds": 0
+        },
+        "translations": {
+            "이름의 유효범위가 미리 결정된": 1,
+            "실행전에 결정되는 이름의 실체": 1
+        },
+        "english": "static scoping",
+        "id": "D3kLeAMtUsYCB7M1Egdm"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964259,
+            "nanoseconds": 713000000
+        },
+        "translations": {
+            "정적 유효범위": 2,
+            "미리 결정된 이름의 유효범위": 1
+        },
+        "english": "static scope",
+        "id": "a5V2BFktAxU2OEXQBJ3J"
+    },
+    {
+        "translations": {
+            "정적분석": 1,
+            "정적 프로그램분석": 1
+        },
+        "timestamp": {
+            "seconds": 1676964258,
+            "nanoseconds": 376000000
+        },
+        "english": "static analysis",
+        "id": "VIPFDxqMbXALPTSywNtl"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964253,
+            "nanoseconds": 881000000
+        },
+        "english": "sparse vector",
+        "translations": {
+            "거의 빈 벡터": 1,
+            "듬성듬성한 벡터": 1
+        },
+        "id": "ytCTjKW3min7LHpE840K"
+    },
+    {
+        "translations": {
+            "듬성듬성한 데이타구조": 1,
+            "거의 빈 데이타구조": 1
+        },
+        "timestamp": {
+            "seconds": 1676964252,
+            "nanoseconds": 582000000
+        },
+        "english": "sparse data structure",
+        "id": "6IRF3BRR7siQrps0LuAv"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964251,
+            "nanoseconds": 200000000
+        },
+        "english": "soundness",
+        "translations": {
+            "올바름": 1,
+            "믿을만함": 1,
+            "안전함": 1,
+            "안전성": 1
+        },
+        "id": "5EwOUNrceYpHGgjTPEU1"
+    },
+    {
+        "english": "simple type",
+        "timestamp": {
+            "seconds": 1676964248,
+            "nanoseconds": 540000000
+        },
+        "translations": {
+            "단순 타입": 1
+        },
+        "id": "VAgM08cIu0MEall9JuH3"
+    },
+    {
+        "english": "signature matching",
+        "translations": {
+            "모듈타입에 대보기": 1,
+            "모듈타입에 맞추기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964247,
+            "nanoseconds": 871000000
+        },
+        "id": "PT33mmaAv0ZIpGqYnfln"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964246,
+            "nanoseconds": 893000000
+        },
+        "english": "signature",
+        "translations": {
+            "모듈타입": 1
+        },
+        "id": "cathWWSfJZur8t8ZnzG2"
+    },
+    {
+        "translations": {
+            "모듈 타입의 실현": 1
+        },
+        "timestamp": {
+            "seconds": 1676964246,
+            "nanoseconds": 560000000
+        },
+        "english": "signature instantiation",
+        "id": "YDx4whbpurqPLJxcdrnf"
+    },
+    {
+        "english": "side-effect",
+        "translations": {
+            "따라 일어나는 일": 1,
+            "메모리 반응": 1,
+            "수반되는 효과": 1,
+            "함께오는 효과": 1,
+            "부수효과": 1
+        },
+        "timestamp": {
+            "seconds": 1676964245,
+            "nanoseconds": 280000000
+        },
+        "id": "sSXyq9xiWCAKANvl0Fuz"
+    },
+    {
+        "translations": {
+            "일렬": 1,
+            "나열": 1
+        },
+        "timestamp": {
+            "seconds": 1676964240,
+            "nanoseconds": 222000000
+        },
+        "english": "sequence",
+        "id": "gT9Zv475ar2cDyi6zoza"
+    },
+    {
+        "english": "separated sum",
+        "timestamp": {
+            "seconds": 1676964238,
+            "nanoseconds": 860000000
+        },
+        "translations": {
+            "출신을 기억하는 합집합": 1,
+            "출신기억 합집합": 1
+        },
+        "id": "ZQWOtLXifT94LTg9BuAs"
+    },
+    {
+        "english": "semantics",
+        "translations": {
+            "뜻": 1,
+            "속내용": 1,
+            "의미": 1,
+            "의미구조": 1
+        },
+        "timestamp": {
+            "seconds": 1676964237,
+            "nanoseconds": 525000000
+        },
+        "id": "SQMJWiE5gb1U5UJ8iHtF"
+    },
+    {
+        "english": "skolemization",
+        "timestamp": {
+            "seconds": 1676964234,
+            "nanoseconds": 698000000
+        },
+        "translations": {
+            "안전한 정량자 제거": 1,
+            "안전하게 정량자 제거하기": 1
+        },
+        "id": "6eTqPrUzWzLscsZrhOTd"
+    },
+    {
+        "translations": {
+            "유효범위": 1
+        },
+        "english": "scope",
+        "timestamp": {
+            "seconds": 1676964233,
+            "nanoseconds": 355000000
+        },
+        "id": "ybUvaLkjGWaT4PnW8w8r"
+    },
+    {
+        "translations": {
+            "틀": 1
+        },
+        "timestamp": {
+            "seconds": 1676964232,
+            "nanoseconds": 705000000
+        },
+        "english": "scheme",
+        "id": "SglcoL7FkMYUozrUikmE"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964232,
+            "nanoseconds": 38000000
+        },
+        "english": "scaffolding code",
+        "translations": {
+            "테스트 발판 코드": 1,
+            "테스터 코드": 1
+        },
+        "id": "7L0yPhx3JUKkvkqMxxLI"
+    },
+    {
+        "english": "rewrite semantics",
+        "timestamp": {
+            "seconds": 1676964230,
+            "nanoseconds": 712000000
+        },
+        "translations": {
+            "다시쓰기로 정의한 의미구조": 1
+        },
+        "id": "laxSegSQFV2CtMVNpvjl"
+    },
+    {
+        "translations": {
+            "다시쓰기 규칙": 1
+        },
+        "timestamp": {
+            "seconds": 1676964230,
+            "nanoseconds": 57000000
+        },
+        "english": "rewrite rule",
+        "id": "SGjk3tQfeMRmYoD6X5c2"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964228,
+            "nanoseconds": 739000000
+        },
+        "translations": {
+            "이치따지기": 1
+        },
+        "english": "reasoning",
+        "id": "NSSeMBPwacKD2IyZZwE7"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964227,
+            "nanoseconds": 441000000
+        },
+        "english": "reference manual",
+        "translations": {
+            "참고서": 1
+        },
+        "id": "MTZFiEE5wUITeYRKzZ1x"
+    },
+    {
+        "translations": {
+            "수행": 1,
+            "계산": 1,
+            "줄이기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964226,
+            "nanoseconds": 110000000
+        },
+        "english": "reduction",
+        "id": "7c5m2MdnlEwsn07dfl7D"
+    },
+    {
+        "english": "recursive function",
+        "translations": {
+            "자기호출함수": 2,
+            "재귀함수": 1,
+            "자기자신을 부르는 함수": 1
+        },
+        "timestamp": {
+            "seconds": 1676964224,
+            "nanoseconds": 137000000
+        },
+        "id": "9umh2tYNBz7FsfI8w7LH"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964222,
+            "nanoseconds": 128000000
+        },
+        "translations": {
+            "자기호출": 1,
+            "자기자신을 부르는": 1
+        },
+        "english": "recursive",
+        "id": "gCAlf2TlS5Z1rBl36oD6"
+    },
+    {
+        "translations": {
+            "원시적 자기참조 정의": 1
+        },
+        "english": "recursive primitive definition",
+        "timestamp": {
+            "seconds": 1676964220,
+            "nanoseconds": 408000000
+        },
+        "id": "Hjm2cvy4VETCeeFHl114"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964219,
+            "nanoseconds": 757000000
+        },
+        "translations": {
+            "레코드": 1
+        },
+        "english": "record",
+        "id": "vNFgN2yiHlTdXZHERXNH"
+    },
+    {
+        "english": "ramdomized algorithm",
+        "translations": {
+            "무작위 알고리즘": 1
+        },
+        "timestamp": {
+            "seconds": 1676964219,
+            "nanoseconds": 72000000
+        },
+        "id": "1uiUVvzKud6FWMTTAsB1"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964218,
+            "nanoseconds": 331000000
+        },
+        "english": "ramdomization",
+        "translations": {
+            "무작위": 1
+        },
+        "id": "GBseamrQKDM8s4n8EYym"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964217,
+            "nanoseconds": 621000000
+        },
+        "translations": {
+            "프로그램 자동생성": 1,
+            "프로그램 합성": 1
+        },
+        "english": "program synthesis",
+        "id": "UzdU99j0y5kDaI65RPOv"
+    },
+    {
+        "translations": {
+            "프로그래밍 언어": 1
+        },
+        "english": "programming language",
+        "timestamp": {
+            "seconds": 1676964216,
+            "nanoseconds": 176000000
+        },
+        "id": "VPPiDnmUrsZx4OECjWSw"
+    },
+    {
+        "english": "principal type",
+        "timestamp": {
+            "seconds": 1676964215,
+            "nanoseconds": 477000000
+        },
+        "translations": {
+            "대표 타입": 1,
+            "가장 일반적인 타입": 1
+        },
+        "id": "ZQakkEHCwzu7QIuKYUiP"
+    },
+    {
+        "english": "primitive",
+        "translations": {
+            "기본": 1
+        },
+        "timestamp": {
+            "seconds": 1676964214,
+            "nanoseconds": 159000000
+        },
+        "id": "E7uKKz1Cn9nQLVXXwLm1"
+    },
+    {
+        "translations": {
+            "기본적인 재귀함수": 1,
+            "원시적인 재귀함수": 1
+        },
+        "timestamp": {
+            "seconds": 1676964213,
+            "nanoseconds": 479000000
+        },
+        "english": "primitive recursive function",
+        "id": "d7szM7I7M4shZAp52E99"
+    },
+    {
+        "translations": {
+            "앞에 붙는": 1
+        },
+        "english": "prefix",
+        "timestamp": {
+            "seconds": 1676964212,
+            "nanoseconds": 268000000
+        },
+        "id": "4nWp4xP5zW253PTAFerv"
+    },
+    {
+        "translations": {
+            "술어 논리": 1,
+            "모든-어떤 논리": 1
+        },
+        "timestamp": {
+            "seconds": 1676964211,
+            "nanoseconds": 410000000
+        },
+        "english": "predicate logic",
+        "id": "bRDRbpRRyKBTudvqfMn3"
+    },
+    {
+        "english": "predicate abstraction",
+        "translations": {
+            "조건식을 변수 하나로 요약하기": 1,
+            "논리조건의 요약": 1,
+            "조건식 요약": 1,
+            "논리조건을 변수 하나로 요약하기": 1,
+            "논리식을 변수 하나로 요약하기": 1,
+            "논리식 요약": 1
+        },
+        "timestamp": {
+            "seconds": 1676964210,
+            "nanoseconds": 53000000
+        },
+        "id": "cRm820ncGImtQvD7MrtL"
+    },
+    {
+        "translations": {
+            "논리식": 1,
+            "논리조건": 1,
+            "조건식": 2
+        },
+        "english": "predicate",
+        "timestamp": {
+            "seconds": 1676964206,
+            "nanoseconds": 218000000
+        },
+        "id": "hkUXF9ZxNLeNVjskfdju"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964204,
+            "nanoseconds": 144000000
+        },
+        "english": "precedence",
+        "translations": {
+            "우선순위": 1
+        },
+        "id": "umhbYmgg157nAX4FIzee"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964203,
+            "nanoseconds": 161000000
+        },
+        "translations": {
+            "뒤에 붙는": 1
+        },
+        "english": "postfix",
+        "id": "HdJaMzQCO0Fy3rS9v8NX"
+    },
+    {
+        "translations": {
+            "하위타입 다형성": 1,
+            "아래타입 다형성": 1,
+            "하위타입에 한정되는 다형성": 1,
+            "아래타입에 한정되는 다형성": 1
+        },
+        "timestamp": {
+            "seconds": 1676964200,
+            "nanoseconds": 565000000
+        },
+        "english": "subtype polymorphism",
+        "id": "DzLYoq87kuwgkM9byLtP"
+    },
+    {
+        "english": "polymorphic",
+        "timestamp": {
+            "seconds": 1676964197,
+            "nanoseconds": 250000000
+        },
+        "translations": {
+            "여러 모양의": 1,
+            "다형의": 1,
+            "여러 타입을 가지는": 1,
+            "모양이 다양한": 1
+        },
+        "id": "GWDlJI6i3DTD3L7tmoZZ"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964194,
+            "nanoseconds": 563000000
+        },
+        "translations": {
+            "다형 함수": 1,
+            "인자 타입에 상관없는 함수": 1
+        },
+        "english": "polymorphic function",
+        "id": "hT1uFvpzy3D5c4gWCL2V"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964193,
+            "nanoseconds": 154000000
+        },
+        "translations": {
+            "다수의 프로그램 흐름을 하나이상으로 요약하는 분석": 1,
+            "다형성을 가지는 분석": 1,
+            "다대다 분석": 1
+        },
+        "english": "polyvariant analysis",
+        "id": "HAsSm0PmrBosMHj2XOAb"
+    },
+    {
+        "english": "pattern",
+        "translations": {
+            "패턴": 1
+        },
+        "timestamp": {
+            "seconds": 1676964191,
+            "nanoseconds": 163000000
+        },
+        "id": "6uIgBtt7o7nBuYkRDeAe"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964190,
+            "nanoseconds": 510000000
+        },
+        "translations": {
+            "레코드 패턴": 1
+        },
+        "english": "pattern row",
+        "id": "FzkOyllogSRr6cOUHzSZ"
+    },
+    {
+        "english": "pattern match",
+        "timestamp": {
+            "seconds": 1676964189,
+            "nanoseconds": 871000000
+        },
+        "translations": {
+            "패턴에 맞추기": 1,
+            "패턴에 대보기": 1
+        },
+        "id": "nOoTg80CAhCM6Dl6ffV6"
+    },
+    {
+        "translations": {
+            "홀짝 함수": 1
+        },
+        "english": "parity function",
+        "timestamp": {
+            "seconds": 1676964187,
+            "nanoseconds": 949000000
+        },
+        "id": "AMlb5GG3QHiW0hVOpBxx"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964187,
+            "nanoseconds": 61000000
+        },
+        "translations": {
+            "일반화된 모듈": 1
+        },
+        "english": "parameterized module",
+        "id": "FvW5P7MsNTrv1pGNwr49"
+    },
+    {
+        "english": "function overloading",
+        "translations": {
+            "여러함수를 같은 이름으로": 1
+        },
+        "timestamp": {
+            "seconds": 1676964184,
+            "nanoseconds": 337000000
+        },
+        "id": "uNA4HYSG0F383ioeF3gN"
+    },
+    {
+        "english": "method overloading",
+        "translations": {
+            "여러함수를 같은 이름으로": 1
+        },
+        "timestamp": {
+            "seconds": 1676964183,
+            "nanoseconds": 692000000
+        },
+        "id": "Qs7qTxG7SRV6DUNA7CCU"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964183,
+            "nanoseconds": 51000000
+        },
+        "translations": {
+            "순서 관계": 1
+        },
+        "english": "ordered relation",
+        "id": "r8YdgBgPDndcVqzhUnJx"
+    },
+    {
+        "translations": {
+            "무더기 패턴": 1
+        },
+        "timestamp": {
+            "seconds": 1676964182,
+            "nanoseconds": 398000000
+        },
+        "english": "or-pattern",
+        "id": "jsCRsb9ixKOjz6jAL8f8"
+    },
+    {
+        "english": "operator",
+        "translations": {
+            "연산자": 1
+        },
+        "timestamp": {
+            "seconds": 1676964181,
+            "nanoseconds": 685000000
+        },
+        "id": "1wQdwlFRfHzeA5KOkbDe"
+    },
+    {
+        "translations": {
+            "실행과정을 드러내는 의미구조": 1,
+            "계산과정을 드러내는 의미구조": 1
+        },
+        "english": "operational semantics",
+        "timestamp": {
+            "seconds": 1676964181,
+            "nanoseconds": 25000000
+        },
+        "id": "TKAzjvtc9qknQ7VsmZkf"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964179,
+            "nanoseconds": 23000000
+        },
+        "translations": {
+            "물건": 1
+        },
+        "english": "object",
+        "id": "Ebm5tMmO53iVKP0zLu7B"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964178,
+            "nanoseconds": 381000000
+        },
+        "english": "null",
+        "translations": {
+            "없는 주소": 1,
+            "헛 주소": 1
+        },
+        "id": "gnzjAv2gqjxOXw7sBofV"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964176,
+            "nanoseconds": 874000000
+        },
+        "translations": {
+            "없는주소 접근": 1,
+            "헛주소 접근": 1
+        },
+        "english": "null dereference",
+        "id": "osAb3t2nDyi0iLidz5gs"
+    },
+    {
+        "translations": {
+            "표준형": 1,
+            "바른꼴": 1
+        },
+        "english": "normal form",
+        "timestamp": {
+            "seconds": 1676964175,
+            "nanoseconds": 348000000
+        },
+        "id": "PyXl1lyJkhixMtafpCnL"
+    },
+    {
+        "english": "non-expansive",
+        "translations": {
+            "새 메모리를 쓰지않는": 1
+        },
+        "timestamp": {
+            "seconds": 1676964173,
+            "nanoseconds": 688000000
+        },
+        "id": "cKPjqwDSsoODDFi1x33h"
+    },
+    {
+        "translations": {
+            "모든가지를 한꺼번에 다할때 다항시간에 풀리는": 1,
+            "운에 기대면 다항시간 안에 풀리는": 1
+        },
+        "timestamp": {
+            "seconds": 1676964172,
+            "nanoseconds": 958000000
+        },
+        "english": "non-deterministic polynomial",
+        "id": "oOC7VBZNegeLyQobJaDU"
+    },
+    {
+        "english": "non-deterministic",
+        "timestamp": {
+            "seconds": 1676964171,
+            "nanoseconds": 597000000
+        },
+        "translations": {
+            "운에 기대는": 1,
+            "한가지로 정해지지 않은": 1,
+            "계산이 모든가지로 퍼지는": 1,
+            "모든가지를 한꺼번에 다하는": 1
+        },
+        "id": "5A3BQWI92y4DAnt3I6ev"
+    },
+    {
+        "english": "node",
+        "timestamp": {
+            "seconds": 1676964168,
+            "nanoseconds": 840000000
+        },
+        "translations": {
+            "노드": 1
+        },
+        "id": "z3rd9kn0u8dxAaY4YUO0"
+    },
+    {
+        "english": "negation",
+        "translations": {
+            "뒤집기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964167,
+            "nanoseconds": 543000000
+        },
+        "id": "MEcFDmVvpEwRD5H2Vx8V"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964166,
+            "nanoseconds": 907000000
+        },
+        "translations": {
+            "기억해두기": 1,
+            "메모해두기": 1
+        },
+        "english": "memoization",
+        "id": "W9gXsWNyeI34pGypPinR"
+    },
+    {
+        "english": "mono-variant analysis",
+        "timestamp": {
+            "seconds": 1676964164,
+            "nanoseconds": 122000000
+        },
+        "translations": {
+            "다수의 프로그램 흐름을 하나로 요약하는 분석": 1,
+            "다대일 분석": 1
+        },
+        "id": "ymSpomsCC70A3xPb9LMF"
+    },
+    {
+        "english": "model checking",
+        "timestamp": {
+            "seconds": 1676964162,
+            "nanoseconds": 748000000
+        },
+        "translations": {
+            "맞나 확인하기": 1,
+            "모델 검증": 1,
+            "모델 체킹": 1
+        },
+        "id": "HgUQBXyRIswy0x4PWQRI"
+    },
+    {
+        "english": "module",
+        "timestamp": {
+            "seconds": 1676964160,
+            "nanoseconds": 728000000
+        },
+        "translations": {
+            "모듈": 1
+        },
+        "id": "3ehtFhyZw4ICcaopzFcq"
+    },
+    {
+        "translations": {
+            "재활용 놓치기": 1,
+            "메모리 누수": 1
+        },
+        "timestamp": {
+            "seconds": 1676964159,
+            "nanoseconds": 368000000
+        },
+        "english": "memory leak",
+        "id": "ok5UB0MmUJMekiUihLOw"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964158,
+            "nanoseconds": 49000000
+        },
+        "english": "match",
+        "translations": {
+            "어울리기": 1,
+            "패턴에 맞추기": 1
+        },
+        "id": "xkTRp482WHTGWtBjyHwL"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964156,
+            "nanoseconds": 685000000
+        },
+        "english": "machine learning",
+        "translations": {
+            "기계 학습": 1
+        },
+        "id": "3SQKZ0C7C8iyutVUpNMs"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964155,
+            "nanoseconds": 977000000
+        },
+        "english": "logical relation",
+        "translations": {
+            "타입구조를 타고 정의되는 관계": 1,
+            "논리 관계": 1,
+            "타입구조를 타고 조립되는 관계": 1
+        },
+        "id": "lbpmhqeR9lJoI63hhljY"
+    },
+    {
+        "translations": {
+            "우물안 정의": 1,
+            "그동네 정의": 1
+        },
+        "english": "local definition",
+        "timestamp": {
+            "seconds": 1676964153,
+            "nanoseconds": 959000000
+        },
+        "id": "fZR7GP6YdpbEMQfIMkIa"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964152,
+            "nanoseconds": 632000000
+        },
+        "translations": {
+            "리스트": 1
+        },
+        "english": "list",
+        "id": "J0Y9JwbBtVx8cToNkTRL"
+    },
+    {
+        "english": "linear function",
+        "timestamp": {
+            "seconds": 1676964151,
+            "nanoseconds": 653000000
+        },
+        "translations": {
+            "직선 함수": 1
+        },
+        "id": "81YOfbZ4h4cTrfKePy1i"
+    },
+    {
+        "translations": {
+            "생김새로 결정되는 유효 범위": 1
+        },
+        "english": "lexical scope",
+        "timestamp": {
+            "seconds": 1676964150,
+            "nanoseconds": 362000000
+        },
+        "id": "yvJVDaioZmAtpsdFIU65"
+    },
+    {
+        "translations": {
+            "어휘 만드는 방법": 1
+        },
+        "timestamp": {
+            "seconds": 1676964149,
+            "nanoseconds": 686000000
+        },
+        "english": "lexical conventions",
+        "id": "jHOpmV2AHMPooeq9Grew"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964145,
+            "nanoseconds": 548000000
+        },
+        "english": "lattice",
+        "translations": {
+            "래티스": 1
+        },
+        "id": "IT08Wb8rFRfZChPRWy1H"
+    },
+    {
+        "translations": {
+            "반복": 1
+        },
+        "english": "iteration",
+        "timestamp": {
+            "seconds": 1676964144,
+            "nanoseconds": 881000000
+        },
+        "id": "OYFXj1Mfo8Kjb6l1Qt1N"
+    },
+    {
+        "english": "isomorphic",
+        "timestamp": {
+            "seconds": 1676964144,
+            "nanoseconds": 199000000
+        },
+        "translations": {
+            "똑같은": 1
+        },
+        "id": "DArjgZ7Mm9CAWgtzLX1c"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964141,
+            "nanoseconds": 442000000
+        },
+        "translations": {
+            "실행기": 1
+        },
+        "english": "interpreter",
+        "id": "Rau7X6h8Av0svoTBYKw6"
+    },
+    {
+        "translations": {
+            "실행": 1
+        },
+        "english": "interpretation",
+        "timestamp": {
+            "seconds": 1676964140,
+            "nanoseconds": 789000000
+        },
+        "id": "mAUqb7vpo0P0fhtsSXFu"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964140,
+            "nanoseconds": 46000000
+        },
+        "translations": {
+            "접속형태": 1,
+            "접속방안": 1,
+            "사용법": 1,
+            "허물": 1
+        },
+        "english": "interface",
+        "id": "3Ms28HZmzIC0tCleh2z0"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964137,
+            "nanoseconds": 291000000
+        },
+        "english": "insertion sort",
+        "translations": {
+            "끼워넣기 정렬": 1
+        },
+        "id": "XKZ2bMSIw3FCQIC38y2V"
+    },
+    {
+        "translations": {
+            "사이끼기": 1
+        },
+        "english": "infix",
+        "timestamp": {
+            "seconds": 1676964136,
+            "nanoseconds": 663000000
+        },
+        "id": "nOeS7UyZHgx3cVk0KOGj"
+    },
+    {
+        "translations": {
+            "인덕": 1,
+            "짐작해서 이끌기": 1
+        },
+        "english": "induction",
+        "timestamp": {
+            "seconds": 1676964135,
+            "nanoseconds": 971000000
+        },
+        "id": "pqcChiuvZrbdGjC8qIfX"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964134,
+            "nanoseconds": 565000000
+        },
+        "translations": {
+            "불완전성 정리": 1,
+            "기계적인 방식으로는 늘 빠뜨린게 있다는 정리": 1
+        },
+        "english": "incompleteness theorem",
+        "id": "HUetyUTC14yiMZ0BtFcN"
+    },
+    {
+        "english": "incomplete",
+        "timestamp": {
+            "seconds": 1676964133,
+            "nanoseconds": 163000000
+        },
+        "translations": {
+            "빠진게 있는": 1,
+            "완전하지않은": 1,
+            "빠뜨린게 있는": 1,
+            "불완전한": 1
+        },
+        "id": "xlpcmDlAK09UuYkRlTyA"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964130,
+            "nanoseconds": 350000000
+        },
+        "english": "imperative language",
+        "translations": {
+            "기계중심 언어": 1,
+            "명령형 언어": 1,
+            "행동지침형 언어": 1
+        },
+        "id": "s37IjdKM8xwfMJXbBOHo"
+    },
+    {
+        "translations": {
+            "일없는 함수": 1
+        },
+        "timestamp": {
+            "seconds": 1676964128,
+            "nanoseconds": 240000000
+        },
+        "english": "identity function",
+        "id": "uva1CIIUADPZhGVypkBB"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964127,
+            "nanoseconds": 543000000
+        },
+        "translations": {
+            "이름": 1
+        },
+        "english": "identifier",
+        "id": "75Z8FAljVFcl1BkVgWBE"
+    },
+    {
+        "english": "homomorphic encryption",
+        "timestamp": {
+            "seconds": 1676964126,
+            "nanoseconds": 844000000
+        },
+        "translations": {
+            "암호문안에서 연산가능한 암호체계": 1,
+            "동형암호": 1
+        },
+        "id": "2ZNnK7beIK4CI5zplOGt"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964125,
+            "nanoseconds": 454000000
+        },
+        "translations": {
+            "생긴구조가 같은": 1,
+            "동형의": 1
+        },
+        "english": "homomorphic",
+        "id": "xLW9UmwryDuvMp7duI3R"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964124,
+            "nanoseconds": 89000000
+        },
+        "english": "high-order function",
+        "translations": {
+            "고차 함수": 1,
+            "함수를 주고받는 함수": 1
+        },
+        "id": "Mwkuwi0dYXFIxOlbakEy"
+    },
+    {
+        "translations": {
+            "계층구조 형성하기": 1,
+            "계층구조": 1
+        },
+        "english": "hierarchy",
+        "timestamp": {
+            "seconds": 1676964122,
+            "nanoseconds": 583000000
+        },
+        "id": "9b29NRRCJ3Sy97PCvw09"
+    },
+    {
+        "translations": {
+            "메모리 사용 측량기": 1,
+            "메모리 사용 계측기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964121,
+            "nanoseconds": 242000000
+        },
+        "english": "heap profiler",
+        "id": "NUIwLy1j7lrlhZyAFpUv"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964119,
+            "nanoseconds": 927000000
+        },
+        "translations": {
+            "멈춤문제": 1
+        },
+        "english": "halting problem",
+        "id": "nV3rVLCeoTGyOjPPcNIj"
+    },
+    {
+        "english": "grammar",
+        "timestamp": {
+            "seconds": 1676964119,
+            "nanoseconds": 278000000
+        },
+        "translations": {
+            "문법": 1
+        },
+        "id": "jydaKM6unYddP1MiXqId"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964115,
+            "nanoseconds": 627000000
+        },
+        "english": "functor signature instantiation",
+        "translations": {
+            "모듈함수 타입의 실현": 1
+        },
+        "id": "RWP35jGzYuLW9hES2i3n"
+    },
+    {
+        "english": "functor",
+        "translations": {
+            "모듈 만드는 함수": 1,
+            "모듈함수": 1
+        },
+        "timestamp": {
+            "seconds": 1676964114,
+            "nanoseconds": 849000000
+        },
+        "id": "GujFwKOZOK7LnFRIktkY"
+    },
+    {
+        "translations": {
+            "함수중심 스타일": 1,
+            "함수형 스타일": 1,
+            "값중심 스타일": 1
+        },
+        "timestamp": {
+            "seconds": 1676964113,
+            "nanoseconds": 495000000
+        },
+        "english": "functional style",
+        "id": "dEoBk61UMuqCr4J62Rus"
+    },
+    {
+        "translations": {
+            "함수형 프로그래밍": 1,
+            "값중심 프로그래밍": 1
+        },
+        "timestamp": {
+            "seconds": 1676964111,
+            "nanoseconds": 462000000
+        },
+        "english": "functional programming",
+        "id": "v62mhIYRFYxCzCAsoqsO"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964110,
+            "nanoseconds": 120000000
+        },
+        "translations": {
+            "값중심 언어": 1,
+            "함수형 언어": 1,
+            "함수중심 언어": 1
+        },
+        "english": "functional language",
+        "id": "udORCCU4Do6r5vU450Ol"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964109,
+            "nanoseconds": 138000000
+        },
+        "translations": {
+            "함수": 1
+        },
+        "english": "function",
+        "id": "IaVOyjKmB4YoLBdqxwpE"
+    },
+    {
+        "english": "function expression",
+        "timestamp": {
+            "seconds": 1676964107,
+            "nanoseconds": 482000000
+        },
+        "translations": {
+            "함수식": 1
+        },
+        "id": "Sh6etRF6bzUekPIPsKIC"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964106,
+            "nanoseconds": 832000000
+        },
+        "english": "function argument",
+        "translations": {
+            "함수 인자": 1
+        },
+        "id": "vo5VGjYgkBbU4DZktD9b"
+    },
+    {
+        "english": "function application",
+        "timestamp": {
+            "seconds": 1676964105,
+            "nanoseconds": 881000000
+        },
+        "translations": {
+            "함수 사용": 1,
+            "함수 호출": 1
+        },
+        "id": "Vw4vwk50nscBPbqG3OG0"
+    },
+    {
+        "translations": {
+            "함수": 1,
+            "함수로 만들기": 1,
+            "함수로 핵심 간추리기": 1,
+            "함수로 속내용 감추기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964104,
+            "nanoseconds": 547000000
+        },
+        "english": "function abstraction",
+        "id": "dY9Ef9evp8NnRgPoj0KS"
+    },
+    {
+        "translations": {
+            "실체없는 변수": 1,
+            "자유로운 변수": 1,
+            "정의안된 변수": 1,
+            "자유변수": 1,
+            "묶이지않은 변수": 1
+        },
+        "english": "free variable",
+        "timestamp": {
+            "seconds": 1676964101,
+            "nanoseconds": 766000000
+        },
+        "id": "eRbVzwaxQbkN4So2cC5v"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964098,
+            "nanoseconds": 263000000
+        },
+        "english": "free type name",
+        "translations": {
+            "묶이지않은 타입이름": 1
+        },
+        "id": "VjdNO1cSil7Y8pjnrrUJ"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964097,
+            "nanoseconds": 566000000
+        },
+        "translations": {
+            "묶이지않은 이름": 1,
+            "자유로운 이름": 1,
+            "정의안된 이름": 1,
+            "실체없는 이름": 1
+        },
+        "english": "free identifier",
+        "id": "iH7nsNmgJLwLUzkMFML8"
+    },
+    {
+        "english": "foreign language interface",
+        "translations": {
+            "다른 언어로 짜여진 프로그램과 연결하는 방법": 1,
+            "외부 언어와 연결하는 방법": 1
+        },
+        "timestamp": {
+            "seconds": 1676964094,
+            "nanoseconds": 661000000
+        },
+        "id": "947UuQXbvzOOf4DrpHkT"
+    },
+    {
+        "english": "first-order equational logic",
+        "translations": {
+            "단순 등식논리": 1
+        },
+        "timestamp": {
+            "seconds": 1676964093,
+            "nanoseconds": 304000000
+        },
+        "id": "93dZWIfuTDKwatusrLQJ"
+    },
+    {
+        "translations": {
+            "특이하게 취급되지않는 함수": 1,
+            "다되는 함수": 1,
+            "함수가 특이하게 취급되지않는": 1,
+            "차별받지않는 함수": 1
+        },
+        "english": "first-class function",
+        "timestamp": {
+            "seconds": 1676964092,
+            "nanoseconds": 587000000
+        },
+        "id": "Vw46GhPTyxQyv16w8szb"
+    },
+    {
+        "english": "equality saturation",
+        "translations": {
+            "동일식 다모으기": 1,
+            "동일식 전부 찾아내기": 1,
+            "동일식 모두탐색": 1
+        },
+        "timestamp": {
+            "seconds": 1676964089,
+            "nanoseconds": 774000000
+        },
+        "id": "HQijWQtNmlW8pIGsbNHP"
+    },
+    {
+        "english": "expression",
+        "translations": {
+            "식": 1,
+            "계산식": 1,
+            "프로그램식": 1
+        },
+        "timestamp": {
+            "seconds": 1676964087,
+            "nanoseconds": 553000000
+        },
+        "id": "izkrBituOQJ2JL3t5PO5"
+    },
+    {
+        "english": "exception bind",
+        "translations": {
+            "예외상황 정의": 1
+        },
+        "timestamp": {
+            "seconds": 1676964085,
+            "nanoseconds": 607000000
+        },
+        "id": "4RKCHdOzAXhcrd1Ggx80"
+    },
+    {
+        "translations": {
+            "예외상황": 1,
+            "예외": 1
+        },
+        "english": "exception",
+        "timestamp": {
+            "seconds": 1676964084,
+            "nanoseconds": 57000000
+        },
+        "id": "lzyWrmriuWwIijNfn8q5"
+    },
+    {
+        "translations": {
+            "값계산": 1,
+            "계산": 1,
+            "실행": 1
+        },
+        "english": "evaluation",
+        "timestamp": {
+            "seconds": 1676964082,
+            "nanoseconds": 280000000
+        },
+        "id": "xIUkxlzebkA4yafCGeLN"
+    },
+    {
+        "english": "evaluation strategy",
+        "translations": {
+            "계산방식": 1,
+            "계산법": 1
+        },
+        "timestamp": {
+            "seconds": 1676964080,
+            "nanoseconds": 644000000
+        },
+        "id": "8tFh9CUlbVqUIBoxEMkK"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964079,
+            "nanoseconds": 331000000
+        },
+        "english": "error",
+        "translations": {
+            "오류": 1
+        },
+        "id": "pF7zZ9ciYfJOkIY8po7X"
+    },
+    {
+        "translations": {
+            "같은것을 따지기": 1,
+            "같은것들로 따져가기": 1
+        },
+        "english": "equational reasoning",
+        "timestamp": {
+            "seconds": 1676964078,
+            "nanoseconds": 248000000
+        },
+        "id": "A2RI08yUHwGzullYtdRn"
+    },
+    {
+        "english": "environment",
+        "translations": {
+            "이름표 목록": 1,
+            "이름의 실체를 보여주는 목록": 1,
+            "환경": 1
+        },
+        "timestamp": {
+            "seconds": 1676964076,
+            "nanoseconds": 886000000
+        },
+        "id": "LpihVHAIQIyEc41dCz6X"
+    },
+    {
+        "translations": {
+            "프로그램 실행 의미구조": 1,
+            "프로그램 실행": 1,
+            "동적 의미구조": 1
+        },
+        "timestamp": {
+            "seconds": 1676964072,
+            "nanoseconds": 142000000
+        },
+        "english": "dynamic semantics",
+        "id": "tIgJlPjSzg950VszfAQc"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964069,
+            "nanoseconds": 867000000
+        },
+        "translations": {
+            "이름의 유효범위가 실행 중에 결정되는": 1,
+            "실행중에 드러나는 이름의 실체": 1,
+            "동적으로 유효범위 정하기": 1
+        },
+        "english": "dynamic scoping",
+        "id": "GK1mtuWVpJRBrhkxgswC"
+    },
+    {
+        "english": "dynamic dispatch",
+        "timestamp": {
+            "seconds": 1676964067,
+            "nanoseconds": 673000000
+        },
+        "translations": {
+            "호출할 함수가 실행중에 결정되는": 1,
+            "동적 함수호출": 1
+        },
+        "id": "FXTacrvHqQTM9r56lhpH"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964066,
+            "nanoseconds": 295000000
+        },
+        "translations": {
+            "또는-조합 바른식": 1,
+            "또는-조합 표준형": 1
+        },
+        "english": "disjunctive normal form",
+        "id": "xgx6nAj3X9VKWaQytQHJ"
+    },
+    {
+        "english": "disjunction",
+        "translations": {
+            "또는-식": 1
+        },
+        "timestamp": {
+            "seconds": 1676964064,
+            "nanoseconds": 957000000
+        },
+        "id": "tA8yEsoNHPkcIM6x02fm"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964064,
+            "nanoseconds": 322000000
+        },
+        "english": "digit",
+        "translations": {
+            "숫자": 1
+        },
+        "id": "niBAmguO1WflpxJY4aWp"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964063,
+            "nanoseconds": 645000000
+        },
+        "translations": {
+            "계산이 한가지로 확실한": 1,
+            "계산이 하나로 확실한": 1,
+            "한가지로 정해진": 1,
+            "모든게 정해진": 1
+        },
+        "english": "determinisitc",
+        "id": "9sHhEOpuSRqagOBIAyRV"
+    },
+    {
+        "translations": {
+            "저장값을 변동시키는": 1,
+            "메모리값을 변동시키는": 1
+        },
+        "english": "destructive",
+        "timestamp": {
+            "seconds": 1676964060,
+            "nanoseconds": 755000000
+        },
+        "id": "rQ0F8EpNuttLoMmhpl5w"
+    },
+    {
+        "translations": {
+            "고정점방식 의미구조": 1,
+            "궁극의 의미하는 바를 표현하는 의미구조": 1,
+            "조립식 의미구조": 1
+        },
+        "timestamp": {
+            "seconds": 1676964058,
+            "nanoseconds": 959000000
+        },
+        "english": "denotational semanitcs",
+        "id": "SgtTIGhdnQrl4wcOjweR"
+    },
+    {
+        "english": "delimiter",
+        "translations": {
+            "구별문자": 1,
+            "구분문자": 1
+        },
+        "timestamp": {
+            "seconds": 1676964056,
+            "nanoseconds": 861000000
+        },
+        "id": "5etYibLYq4Or0ci1U9IU"
+    },
+    {
+        "translations": {
+            "값 계산을 최대한 미루기": 1,
+            "미루어 계산하기": 1
+        },
+        "english": "delayed evaluation",
+        "timestamp": {
+            "seconds": 1676964055,
+            "nanoseconds": 405000000
+        },
+        "id": "GGfeIGItXwg6Nqa432Q8"
+    },
+    {
+        "english": "deep neural net",
+        "timestamp": {
+            "seconds": 1676964054,
+            "nanoseconds": 68000000
+        },
+        "translations": {
+            "딥뉴럴넷": 1,
+            "깊은 신경망": 1
+        },
+        "id": "FJTTy3Mgs2d8VRAfoVqI"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964052,
+            "nanoseconds": 656000000
+        },
+        "translations": {
+            "반드시 이끌기": 1,
+            "디덕": 1
+        },
+        "english": "deduction",
+        "id": "CR9emIuDQ9F7AWf6FIcp"
+    },
+    {
+        "translations": {
+            "선언": 1
+        },
+        "timestamp": {
+            "seconds": 1676964051,
+            "nanoseconds": 328000000
+        },
+        "english": "declaration",
+        "id": "biIWdDzFiD7DBNEvQNmc"
+    },
+    {
+        "english": "decision procedure",
+        "translations": {
+            "예-아니오 판정 알고리즘": 1,
+            "예-아니오 판정 프로그램": 1
+        },
+        "timestamp": {
+            "seconds": 1676964050,
+            "nanoseconds": 573000000
+        },
+        "id": "ZHcfWr6hr5e1ibqL3ACu"
+    },
+    {
+        "english": "decision problem",
+        "timestamp": {
+            "seconds": 1676964048,
+            "nanoseconds": 991000000
+        },
+        "translations": {
+            "예-아니오 문제": 1
+        },
+        "id": "cg2CKhdGQMIeJHue63zs"
+    },
+    {
+        "english": "dead code",
+        "translations": {
+            "무용지물 코드": 1,
+            "쓸데없는 코드": 1
+        },
+        "timestamp": {
+            "seconds": 1676964048,
+            "nanoseconds": 348000000
+        },
+        "id": "Y1KWnNpthlo7uSbptaYq"
+    },
+    {
+        "english": "de-sugar",
+        "timestamp": {
+            "seconds": 1676964047,
+            "nanoseconds": 31000000
+        },
+        "translations": {
+            "설탕구조를 녹이다": 1,
+            "설탕 구조를 풀다": 1
+        },
+        "id": "B9m6UDYfF83oNnJqoXlw"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964045,
+            "nanoseconds": 639000000
+        },
+        "translations": {
+            "데이타 구조": 1,
+            "자료 정리한 모양": 1,
+            "자료 구조": 1
+        },
+        "english": "data structure",
+        "id": "UcOxKN2vQ8nJKf9ykrO3"
+    },
+    {
+        "english": "data constructor",
+        "timestamp": {
+            "seconds": 1676964043,
+            "nanoseconds": 568000000
+        },
+        "translations": {
+            "자료 구성자": 1,
+            "데이타 구성자": 1
+        },
+        "id": "8vGZUOAqNp6ffownHjwZ"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964042,
+            "nanoseconds": 148000000
+        },
+        "english": "dangling pointer",
+        "translations": {
+            "오리알 포인터": 2,
+            "헛 포인터": 1,
+            "재활용된 메모리": 1,
+            "오염된 메모리": 1
+        },
+        "id": "w1cYT9RHdEWVRzpgZLRA"
+    },
+    {
+        "translations": {
+            "커리형 함수": 1,
+            "여러인자를 야금야금 받는 함수": 1,
+            "여러인자를 줄세워 받는 함수": 1,
+            "야금야금 함수": 1
+        },
+        "timestamp": {
+            "seconds": 1676964039,
+            "nanoseconds": 262000000
+        },
+        "english": "curried function",
+        "id": "4g5Zy3lUIdQU9WVtAKCb"
+    },
+    {
+        "english": "curried application",
+        "translations": {
+            "커리형 함수 적용": 1,
+            "여러인자를 줄세워 전달하기": 1,
+            "함수를 야금야금 적용하기": 1
+        },
+        "timestamp": {
+            "seconds": 1676964036,
+            "nanoseconds": 145000000
+        },
+        "id": "NduvXMpvBQbGL21Ursk9"
+    },
+    {
+        "translations": {
+            "올바름": 1,
+            "맞음": 1
+        },
+        "timestamp": {
+            "seconds": 1676964034,
+            "nanoseconds": 64000000
+        },
+        "english": "correctness",
+        "id": "A5hrIGzZtaIBFxZaCaSo"
+    },
+    {
+        "translations": {
+            "수렴하는": 1
+        },
+        "timestamp": {
+            "seconds": 1676964032,
+            "nanoseconds": 530000000
+        },
+        "english": "convergent",
+        "id": "wA8omQyWHjdvwTeWMIP4"
+    },
+    {
+        "english": "control structure",
+        "translations": {
+            "실행 흐름": 1
+        },
+        "timestamp": {
+            "seconds": 1676964031,
+            "nanoseconds": 840000000
+        },
+        "id": "TQmg4ZipR7EODXdQchwf"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964031,
+            "nanoseconds": 183000000
+        },
+        "translations": {
+            "실행 흐름 분석": 1,
+            "함수 흐름 분석": 1
+        },
+        "english": "control flow analysis",
+        "id": "E9AgtgnAR49d5UvQSFz0"
+    },
+    {
+        "english": "continuation passing style transform",
+        "translations": {
+            "앞으로 할 일 전달 변환": 1
+        },
+        "timestamp": {
+            "seconds": 1676964029,
+            "nanoseconds": 937000000
+        },
+        "id": "x4XXg0qg2Z91ppInG7At"
+    },
+    {
+        "translations": {
+            "앞으로 할 일을 함수로 표현해서 전달하는": 1,
+            "계산과정을 전달하는": 1,
+            "앞으로 할 일 전달하는": 1
+        },
+        "english": "continuation passing style",
+        "timestamp": {
+            "seconds": 1676964029,
+            "nanoseconds": 92000000
+        },
+        "id": "nhQ5k2cCJhjoiqjA6gfX"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964025,
+            "nanoseconds": 347000000
+        },
+        "english": "context",
+        "translations": {
+            "문맥": 1,
+            "환경": 1
+        },
+        "id": "ge9uShFmHBfsKc50p6UG"
+    },
+    {
+        "english": "constraint",
+        "translations": {
+            "제약": 1
+        },
+        "timestamp": {
+            "seconds": 1676964023,
+            "nanoseconds": 840000000
+        },
+        "id": "UtaEHEThro2YNJlH8eJf"
+    },
+    {
+        "english": "constraint expression",
+        "translations": {
+            "제약식": 1
+        },
+        "timestamp": {
+            "seconds": 1676964023,
+            "nanoseconds": 162000000
+        },
+        "id": "NH9SJwtdH7oyCwxh6GAz"
+    },
+    {
+        "english": "constant",
+        "timestamp": {
+            "seconds": 1676964022,
+            "nanoseconds": 421000000
+        },
+        "translations": {
+            "상수": 2
+        },
+        "id": "VKBZxqun400Uj15dwiW8"
+    },
+    {
+        "english": "consistency",
+        "translations": {
+            "일관성": 2
+        },
+        "timestamp": {
+            "seconds": 1676964021,
+            "nanoseconds": 769000000
+        },
+        "id": "Hk2qkrcin4W2Us4pTWa6"
+    },
+    {
+        "english": "convex programming",
+        "timestamp": {
+            "seconds": 1676964021,
+            "nanoseconds": 68000000
+        },
+        "translations": {
+            "볼록 프로그래밍": 1
+        },
+        "id": "bxwzsWOaPmhiCDTTLqtS"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964020,
+            "nanoseconds": 375000000
+        },
+        "english": "conjunctive normal form",
+        "translations": {
+            "그리고-조합 표준형": 1,
+            "그리고-조합 바른 식": 1
+        },
+        "id": "wtDifSWOD2losRMUwXHO"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964019,
+            "nanoseconds": 67000000
+        },
+        "translations": {
+            "그리고-식": 1
+        },
+        "english": "conjunction",
+        "id": "NEAfoe9wW3geEQMmYGan"
+    },
+    {
+        "translations": {
+            "계산 학습 이론": 1
+        },
+        "timestamp": {
+            "seconds": 1676964018,
+            "nanoseconds": 297000000
+        },
+        "english": "computational learning theory",
+        "id": "s5a5sdUbjXXsLx438Rwu"
+    },
+    {
+        "translations": {
+            "계산 복잡도": 1
+        },
+        "timestamp": {
+            "seconds": 1676964017,
+            "nanoseconds": 602000000
+        },
+        "english": "computational complexity",
+        "id": "CZdpvACX1LwrOW8kqSqk"
+    },
+    {
+        "english": "computation strategy",
+        "translations": {
+            "계산 방식": 1,
+            "계산 전략": 1
+        },
+        "timestamp": {
+            "seconds": 1676964017,
+            "nanoseconds": 330000000
+        },
+        "id": "oemePdUW58ULgkg3ZZMN"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964016,
+            "nanoseconds": 950000000
+        },
+        "english": "computation",
+        "translations": {
+            "계산": 1
+        },
+        "id": "u1LJ9YyCGKZe49bCxPjD"
+    },
+    {
+        "translations": {
+            "완전한 부분순서 집합": 1
+        },
+        "english": "complete partial-order set",
+        "timestamp": {
+            "seconds": 1676964014,
+            "nanoseconds": 841000000
+        },
+        "id": "vAV8kUO24XUM4tp9tniK"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964014,
+            "nanoseconds": 176000000
+        },
+        "translations": {
+            "완전성": 1,
+            "빠뜨림없슴": 1,
+            "완전함": 1
+        },
+        "english": "completeness",
+        "id": "8w80nHx8c7R1U44GBUxt"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964012,
+            "nanoseconds": 768000000
+        },
+        "translations": {
+            "빠뜨린게 없는": 1,
+            "완전한": 1,
+            "빠뜨림이 없는": 1
+        },
+        "english": "complete",
+        "id": "oATJjbZRIqpsu4QMzmSh"
+    },
+    {
+        "english": "compilation",
+        "translations": {
+            "프로그램 번역": 1,
+            "언어의 기계어 변환": 1
+        },
+        "timestamp": {
+            "seconds": 1676964009,
+            "nanoseconds": 772000000
+        },
+        "id": "cSE9WLoCQlc14TJtmZpj"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964008,
+            "nanoseconds": 396000000
+        },
+        "english": "compilation unit",
+        "translations": {
+            "컴파일 단위": 1,
+            "번역 단위": 1
+        },
+        "id": "MIQiJDYhnPB3D0SoYct5"
+    },
+    {
+        "translations": {
+            "함수가 인자를 통해서만 외부와 소통하게 하는 변환": 1,
+            "함수 변환": 1,
+            "함수의 자유변수를 없애주는 변환": 1
+        },
+        "timestamp": {
+            "seconds": 1676964007,
+            "nanoseconds": 14000000
+        },
+        "english": "closure conversion",
+        "id": "MHVXZpoh3jkPJcUSGggW"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964004,
+            "nanoseconds": 155000000
+        },
+        "english": "Cartesian product",
+        "translations": {
+            "데카르트 곱": 1,
+            "완전곱": 1
+        },
+        "id": "i1oqwtRd115rsaeLZsgy"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676964001,
+            "nanoseconds": 929000000
+        },
+        "english": "call by reference",
+        "translations": {
+            "주소전달 호출": 1
+        },
+        "id": "c7Ylpq0l3jLTYfmty0JS"
+    },
+    {
+        "english": "calculus",
+        "timestamp": {
+            "seconds": 1676964000,
+            "nanoseconds": 542000000
+        },
+        "translations": {
+            "계산법": 1,
+            "셈법": 1
+        },
+        "id": "R8Z7sAF9XMDGsd7OUb9C"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676963997,
+            "nanoseconds": 78000000
+        },
+        "english": "built-in",
+        "translations": {
+            "이미 있는": 1,
+            "붙박이": 3
+        },
+        "id": "PTY1YApwbM2tY9578xnJ"
+    },
+    {
+        "english": "bottom",
+        "translations": {
+            "바닥": 1
+        },
+        "timestamp": {
+            "seconds": 1676963995,
+            "nanoseconds": 658000000
+        },
+        "id": "C2M9mFOxEDPhOrPGYacB"
+    },
+    {
+        "translations": {
+            "한정해서 일반화시키기": 1,
+            "울타리안에서 일반화시키기": 1
+        },
+        "english": "bounded quantification",
+        "timestamp": {
+            "seconds": 1676963994,
+            "nanoseconds": 888000000
+        },
+        "id": "L2fhHEPO6AbPaBDsUKvb"
+    },
+    {
+        "translations": {
+            "부울식": 1
+        },
+        "timestamp": {
+            "seconds": 1676963993,
+            "nanoseconds": 896000000
+        },
+        "english": "Boolean expression",
+        "id": "ynnBDdzseTrXbPFYHZq8"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676963993,
+            "nanoseconds": 434000000
+        },
+        "english": "bounded probabilistic polynomial",
+        "translations": {
+            "오류율을 잡아둘 수 있는 확률형 다항": 1
+        },
+        "id": "EuUSsXwPBuD84J364zBQ"
+    },
+    {
+        "translations": {
+            "명명하기": 1,
+            "이름짓기": 1,
+            "정의하기": 1
+        },
+        "timestamp": {
+            "seconds": 1676963992,
+            "nanoseconds": 32000000
+        },
+        "english": "binding",
+        "id": "mSx9d4dRLHXvWrq0u5g3"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676963989,
+            "nanoseconds": 974000000
+        },
+        "english": "bind",
+        "translations": {
+            "정의하다": 1,
+            "이름짓다": 1
+        },
+        "id": "KMwBvyTh17mFHLsfUy3W"
+    },
+    {
+        "english": "binary",
+        "timestamp": {
+            "seconds": 1676963988,
+            "nanoseconds": 225000000
+        },
+        "translations": {
+            "두개의": 1
+        },
+        "id": "CoGoGHD0JxwY0BsutQN7"
+    },
+    {
+        "english": "axiomatic theory",
+        "timestamp": {
+            "seconds": 1676963987,
+            "nanoseconds": 551000000
+        },
+        "translations": {
+            "엄밀한 이론": 1,
+            "공리에 기초한 이론": 1
+        },
+        "id": "K1MQVF1IRX92hJmzFOdg"
+    },
+    {
+        "translations": {
+            "일거리가 딸려있는 문법": 1,
+            "일거리딸린 문법": 1,
+            "할일딸린 문법": 1,
+            "할일이 딸려있는 문법": 1
+        },
+        "english": "attribute grammar",
+        "timestamp": {
+            "seconds": 1676963986,
+            "nanoseconds": 51000000
+        },
+        "id": "2MJNJVxB9u5o93x6cKtH"
+    },
+    {
+        "english": "associativity",
+        "timestamp": {
+            "seconds": 1676963983,
+            "nanoseconds": 149000000
+        },
+        "translations": {
+            "방향성": 1,
+            "결합법칙": 1,
+            "결합순서": 1
+        },
+        "id": "JFuc88tPu5wZVgshJytN"
+    },
+    {
+        "translations": {
+            "메모리에 쓰기": 1,
+            "값 기록하기": 1,
+            "기록하기": 1
+        },
+        "english": "assignment",
+        "timestamp": {
+            "seconds": 1676963980,
+            "nanoseconds": 988000000
+        },
+        "id": "inWrKJ5vCWdQOHHOf4AB"
+    },
+    {
+        "english": "applicative language",
+        "translations": {
+            "값중심 언어": 1,
+            "함수형 언어": 1,
+            "계산중심 언어": 1
+        },
+        "timestamp": {
+            "seconds": 1676963979,
+            "nanoseconds": 167000000
+        },
+        "id": "YYkrcwRosdQiFDpv9AQj"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676963976,
+            "nanoseconds": 748000000
+        },
+        "translations": {
+            "호출": 1,
+            "사용": 1
+        },
+        "english": "application",
+        "id": "5Aj4bEajVe6YO8eNPtO4"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676963975,
+            "nanoseconds": 41000000
+        },
+        "english": "alias",
+        "translations": {
+            "별명": 2
+        },
+        "id": "GPc23G8M8JPbcp1clh0P"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676963974,
+            "nanoseconds": 723000000
+        },
+        "english": "allocation",
+        "translations": {
+            "메모리 할당": 1
+        },
+        "id": "jijohXmwn96pbKKQirwQ"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676963973,
+            "nanoseconds": 615000000
+        },
+        "translations": {
+            "요약": 2,
+            "속내용 감추기": 1,
+            "핵심 드러내기": 1
+        },
+        "english": "abstraction",
+        "id": "Pcrff5qEyDN2U57EhC9N"
+    },
+    {
+        "translations": {
+            "클래스 허물": 1,
+            "껍데기 클래스": 1,
+            "허물 클래스": 1,
+            "클래스 껍데기": 1
+        },
+        "timestamp": {
+            "seconds": 1676963969,
+            "nanoseconds": 838000000
+        },
+        "english": "abstract class",
+        "id": "fxjPTUF0lOeMfGOo3wBH"
+    },
+    {
+        "english": "abstract type",
+        "translations": {
+            "핵심만 드러낸 타입": 1,
+            "구현된 속사정이 감추어진 타입": 1,
+            "속내용이 감추어진 타입": 1
+        },
+        "timestamp": {
+            "seconds": 1676963965,
+            "nanoseconds": 363000000
+        },
+        "id": "Rq1raOsGurNfxXtu2GcY"
+    },
+    {
+        "english": "concrete syntax",
+        "timestamp": {
+            "seconds": 1676963963,
+            "nanoseconds": 274000000
+        },
+        "translations": {
+            "문장구조 복원방법": 1,
+            "문장구조 복원법": 1,
+            "문장구조 복원규칙": 1,
+            "문장구조 파악법": 1,
+            "문장구조 파악규칙": 1,
+            "문장구조 파악방법": 1,
+            "구체적 문법구조": 1
+        },
+        "id": "1xKX0ZpNOTYf7E9HKsfI"
+    },
+    {
+        "translations": {
+            "요약된 의미구조": 1,
+            "요약 의미": 1
+        },
+        "english": "abstract semantics",
+        "timestamp": {
+            "seconds": 1676963954,
+            "nanoseconds": 353000000
+        },
+        "id": "cjsLxR2ys7KB6ywBvrc7"
+    },
+    {
+        "english": "abduction",
+        "translations": {
+            "앱덕": 1,
+            "원인 짐작하기": 1
+        },
+        "timestamp": {
+            "seconds": 1676963953,
+            "nanoseconds": 580000000
+        },
+        "id": "2HdBtmHMnrKxA9uIaMEE"
+    },
+    {
+        "timestamp": {
+            "seconds": 1676963953,
+            "nanoseconds": 308000000
+        },
+        "translations": {
+            "요약해석": 2
+        },
+        "english": "abstract interpretation",
+        "id": "OgZN9oLyHAdK9iNw78sl"
+    }
+]
