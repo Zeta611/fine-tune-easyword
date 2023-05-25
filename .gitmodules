@@ -1,0 +1,3 @@
+[submodule "easyword_model"]
+	path = easyword_model
+	url = https://huggingface.co/Zeta611/easyword_model
