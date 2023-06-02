@@ -1,3 +1,6 @@
 [submodule "easyword_model"]
 	path = easyword_model
 	url = https://huggingface.co/Zeta611/easyword_model
+[submodule "easyword-model-peft-distilled-1.3B"]
+	path = easyword-model-peft-distilled-1.3B
+	url = git@hf.co:Zeta611/easyword-model-peft-distilled-1.3B

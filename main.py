@@ -6,6 +6,7 @@ import pandas as pd
 import torch
 from datasets import Dataset, DatasetDict, Features
 from datasets.features.translation import Translation
+from peft import LoraConfig, PeftConfig, PeftModel, TaskType, get_peft_model
 from transformers import (
     AutoModelForSeq2SeqLM,
     AutoTokenizer,
@@ -17,9 +18,21 @@ from transformers import (
 
 device = torch.cuda.current_device() if torch.cuda.is_available() else -1
 
+peft_config = LoraConfig(
+    task_type=TaskType.SEQ_2_SEQ_LM,
+    inference_mode=False,
+    r=8,
+    target_modules=["k_proj", "q_proj", "v_proj", "out_proj", "fc1", "fc2"],
+    lora_alpha=32,
+    lora_dropout=0.1,
+)
+
 # available models: "facebook/nllb-200-distilled-600M", "facebook/nllb-200-1.3B", "facebook/nllb-200-distilled-1.3B", "facebook/nllb-200-3.3B"
-checkpoint = "facebook/nllb-200-distilled-600M"
+checkpoint = "facebook/nllb-200-distilled-1.3B"
 model = AutoModelForSeq2SeqLM.from_pretrained(checkpoint)
+model = get_peft_model(model, peft_config)
+model.print_trainable_parameters()
+
 tokenizer = AutoTokenizer.from_pretrained(
     checkpoint, src_lang="eng_Latn", tgt_lang="kor_Hang"
 )
@@ -38,9 +51,9 @@ with open("dump.json") as f:
 
 # Try translation
 jargons = [entry["english"] for entry in data]
-for jargon in jargons:
-    target_seq = translator(jargon, max_length=128)
-    print(jargon, target_seq[0]["translation_text"])
+# for jargon in jargons:
+#     target_seq = translator(jargon, max_length=128)
+#     print(jargon, target_seq[0]["translation_text"])
 
 
 translations = {entry["english"]: list(entry["translations"].keys()) for entry in data}
@@ -141,14 +154,14 @@ def compute_metrics(eval_preds):
 
 # Train
 training_args = Seq2SeqTrainingArguments(
-    output_dir="easyword_model",
+    output_dir="easyword-model-peft-distilled-1.3B",
     evaluation_strategy="epoch",
     learning_rate=2e-5,
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
     weight_decay=0.01,
     save_total_limit=3,
-    num_train_epochs=10,
+    num_train_epochs=16,
     predict_with_generate=True,
     fp16=True,
     push_to_hub=True,

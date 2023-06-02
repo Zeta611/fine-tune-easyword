@@ -1,0 +1,360 @@
+abduction 납치
+abstract class 추상 클래스
+abstract interpretation 추상적 해석
+abstract machine 추상 기계
+abstract method 추상적 방법
+abstract semantics 추상적인 의미론
+abstract syntax 추상적인 문법
+abstract type 추상형
+abstraction hierarchy 추상화 계층
+abstraction 추상화
+ad-hoc polymorphism 특수한 다형성
+algebraic effect 대수적 효과
+algebraic type 대수적 타입
+alias 별명
+allocation 배분
+annotation 주석
+application 신청
+applicative language 응용 언어
+assertion 주장
+assignment 임용
+associativity 협동성
+asynchronous programming 비동기 프로그래밍
+attribute grammar 속성 문법
+axiomatic theory 공리론
+backend 백엔드
+bi-variant 양변수
+binary 바이너리
+bind 묶어
+binding 구속력 있는
+Boolean expression 부엘 표현식
+borrowing 대출
+bottom 바닥
+bottom-up program synthesis 아래에서 위로 프로그램 합성
+bounded probabilistic polynomial 한정 확률 복소수
+bounded quantification 제한된 수치
+bubble sort 형 분류
+bug 버그
+built-in 내장
+cache 캐시
+calculus 미적분학
+call by name 이름대로 불러
+call by reference 참조로 호출
+call by value 값에 따라 호출
+Cartesian product 카르테스 산수
+case expression 대사 표현식
+class method 클래스 방법
+class 클래스
+closure conversion 폐쇄 변환
+closure 폐쇄
+co-variant 동종
+compilation unit 컴파일 단위
+compilation 집합
+complete partial-order set 전체 부분 순서 집합
+complete 완전
+completeness 완전성
+compositional 구성성
+compositionality 구성성
+computation strategy 계산 전략
+computation 계산
+computational complexity 계산 복잡성
+computational learning theory 계산 학습 이론
+concrete semantics 구체적인 의미론
+concrete syntax 콘크리트 문법
+conjunction 합동
+conjunctive normal form 합성사 정형
+consistency 일관성
+constant 일정
+constraint expression 제약 표현식
+constraint 제한
+container 용기
+context 맥락
+continuation passing style transform 계속되는 패스 스타일 변환
+continuation passing style 계속되는 패스 스타일
+continuation 계속
+contra-variant 반대 변수
+control flow analysis 제어 흐름 분석
+control structure 제어 구조
+convergent 융합
+convex programming 은 프로그래밍
+coroutine 코로루틴
+correctness 정확성
+cost-effective 비용 효율성
+cost-ineffective 비용 비효율적
+coverage 커버리
+curried application 카리 어플리케이션
+curried function 커리 함수
+dangling pointer 윙핑 포인터
+data constructor 데이터 구성 요소
+data structure 데이터 구조
+de-sugar 설탕 제거
+dead code 죽은 코드
+decision problem 결정 문제
+decision procedure 결정 절차
+declaration 선언
+deduction 감수
+deep neural net 심신망
+definitional interpreter 정의역사
+delayed evaluation 지연된 평가
+delimiter 경계선
+denial-of-service 서비스 거부
+denotational semanitcs 의미의 의미
+dependent type 종속형
+dereference 소환
+destructive 파괴적
+determinisitc 결정적
+digit 숫자
+disjunction 단절
+disjunctive normal form 비연합형
+dynamic dispatch 동적 전송
+dynamic programming 동적 프로그래밍
+dynamic scoping 동적 스코핑
+dynamic semantics 동적 의미론
+dynamic type 동적 타입
+dynamically typed language 동적으로 타입화된 언어
+eager evaluation 열성 평가
+effect type 효과 유형
+environment 환경
+equality saturation 평등 포화
+equational reasoning 방정식적 추론
+error 오류
+evaluation strategy 평가 전략
+evaluation 평가
+exception bind 예외 묶음
+exception handling 예외 처리
+exception 예외
+existentially quantified type 실존적 수치형
+expression 표현
+fairness 공평함
+first-class function 1급 기능
+first-order equational logic 1차 방정식 논리
+foreign language interface 외국어 인터페이스
+formal verification 공식 확인
+free identifier 무료 식별자
+free type name 자유형 이름
+free variable 자유 변수
+frontend 프론트엔드
+function abstraction 함수 추상화
+function application 함수 응용
+function argument 함수 논증
+function expression 함수 표현
+function overloading 기능 과부하
+function 기능
+functional language 기능 언어
+functional programming 기능 프로그래밍
+functional style 기능적인 스타일
+functor signature instantiation 터 서명 인스턴스화
+functor 터
+fuzzing 기
+garbage collection 쓰레기 수집
+gradual typing 점진적인 타이핑
+grammar 문법
+halting problem 정지 문제
+hashing 해시
+hazard pointer 위험 표시기
+heap profiler 힙 프로파일러
+hierarchy 계층
+high-order function 고위 함수
+homomorphic encryption 동형 암호
+homomorphic 동형
+identifier 식별자
+identity function 정체성 함수
+iff
+immutable 변함없는
+imperative language 명령어
+incomplete 불완전
+incompleteness theorem 불완전성 정립
+induction 인덕션
+infix
+informal verification 비공식적 확인
+informal 비공식적
+insertion sort 삽입 분류
+instrument 기기
+interface 인터페이스
+interpretation 해석
+interpreter 통역사
+invariant 변함없는
+isomorphic 동형
+iteration 반복
+just-in time compiler 정식 컴파일러
+kind 친절함
+lattice
+lazy evaluation 게으른 평가
+leaf 잎
+lexer 레크서
+lexical analysis 어휘 분석
+lexical conventions 어휘적 통념
+lexical scope 어휘 범위
+lexicographic order 어휘 순서
+line continuation 직선 연속
+linear function 선형 함수
+linear type 선형형
+linearizable 선형화 가능
+list 목록
+liveness property 생명력 재산
+local definition 지역 정의
+logical relation 논리적 관계
+machine learning 기계 학습
+match 일치
+memoization 기억
+memory leak 메모리 누출
+merge sort 병합 분류
+meta programming 메타 프로그래밍
+metalanguage 금속어
+method overloading 방법 과부하
+mode 모드
+model checking 모델 검사
+module 모듈
+monkey patch 원숭이 랩
+mono-variant analysis 단일 변수 분석
+monolithic 단조각
+mutable 변동성
+mutual recursive 상호 재귀
+negation 부정
+network 네트워크
+node 노드
+non-deterministic polynomial 결정론적 인 다항식
+non-deterministic 결정론적이지 않은
+non-expansive 확장성이 없는
+normal form 정상 형태
+null dereference null dereference (무료 탈 참조)
+null null
+null pointer null 포인터
+object 물체
+object-oriented language 객체 지향 언어
+operational semantics 운영용 의미론
+operator 운영자
+or-pattern 또는 패턴
+ordered relation 정해진 관계
+out-of-order  - 정렬되지 않은 상태입니다
+out-of-order execution 주문이 없는 실행
+overflow 넘쳐나기
+overhead 상용비
+parameter 매개 변수
+parameterized module 매개 변수 모듈
+parametric polymorphism 파라미터적 다형성
+parity function 동위함수
+parsing 분석
+partial function 부분 기능
+pattern match 패턴 일치
+pattern row 패턴 행
+pattern 패턴
+pointer 지표
+polymorphic function 다형 함수
+polymorphic 다형성
+polymorphism 다형성
+polyvariant analysis 다변변수 분석
+postfix 포스트픽스
+precedence 우선순위
+predicate abstraction 전제 추상화
+predicate logic 전제 논리
+predicate 선명
+prefix 앞자
+primitive recursive function 원시적 재귀 함수
+primitive 원시적
+principal type 주요 유형
+probably approximately correct, PAC 아마 대략 맞을 겁니다.
+program synthesis 프로그램 합성
+programming language 프로그래밍 언어
+query 질문
+ramdomization 람드미제이션
+ramdomized algorithm 램드미즈 알고리즘
+reasoning 논론
+record 기록
+recursive function 재귀 함수
+recursive primitive definition 재귀 원시 정의
+recursive 재귀성
+reduction 감소
+refactoring 재조합
+reference manual 참고 설명서
+reference 참조
+refinement type 정제 유형
+rewrite rule 재쓰기 규칙
+rewrite semantics 문리학을 다시 쓰면
+rewrite 다시 쓰기
+runtime 실행 시간
+safety property 안전성
+scaffolding code 스캐폴드 코드
+scheme 계획
+scope 적용 범위
+semantics 의미론
+separated sum 분리된 금액
+separation logic 분리 논리
+sequence 순서
+sharding 어
+short-circuit evaluation 단전 평가
+side-effect 부작용
+signature instantiation 서명 인스턴스
+signature matching 서명 일치
+signature 서명
+simple type 단순 타입
+skolemization 학문화
+soundness 건전함
+spanning tree 나무
+sparse data structure 희박한 데이터 구조
+sparse vector 희박한 벡터
+specification 정형
+statement 진술
+static analysis 정적 분석
+static scope 정적 범위
+static scoping 정적 스코핑
+static semantics 정적 의미론
+static type 정적 타입
+statically typed language 정적 타입 언어
+strict evaluation 엄격한 평가
+string 문자열
+structure bind 구조 결합
+structure description 구조 설명
+structure expression 구조 표현
+structure 구조
+substitution 대체
+subtype polymorphism 하위형 다형성
+subtype 하위 유형
+supertype 초형
+symbol 표지
+syntactic constraint 문법적 제약
+syntactic sugar 합성당
+syntax analysis 문법 분석
+syntax 문법
+tail recursive 꼬리 재귀
+template 템플릿
+temporal logic 시간적 논리
+term 기간
+test-driven development 테스트 기반 개발
+top declaration 최고 선언
+top-down program synthesis 상하계 프로그램 합성
+top-level declaration 최고 수준의 선언
+total function 전체 함수
+transaction 거래
+tree 나무
+tuple 튜플
+type abbreviation 타입 약자
+type bind 결합형
+type constructor 타입 제작자
+type expression 타입 표현식
+type inference 타입 추론
+type instantiation 타입 인스턴스화
+type realization 유형 실현
+type scheme generalization 타입 스키마 일반화
+type scheme instantiation 타입 스키마 인스턴스
+type scheme 타입 스키마
+type structure 타입 구조
+type variable 타입 변수
+type 종류
+typing rule 타이핑 규칙
+unary 유나리
+uncurrying 지 않는
+undecidable 결정할 수 없는
+unification 통일
+univerally quantified type 보편적으로 정량화된 유형
+universal machine 보편적인 기계
+value bind 값 묶음
+value 가치
+variable 변수
+variant type 변종 유형
+weak/relaxed memory 약한 기억력/완전한 기억력
+weakly consistent memory 약하게 일관성 있는 기억력
+well-formed 잘 형성된
+well-founded 근거가 있는
+widening 넓어짐
+wild pattern 야생 패턴
